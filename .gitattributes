@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Raw-source digests depend on original bytes, including RRUFF's mixed line endings.
+data/raw/** -text

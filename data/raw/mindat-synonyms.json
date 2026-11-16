@@ -1,0 +1,6941 @@
+{
+  "results": [
+    {
+      "id": 20,
+      "name": "Adamant",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 35,
+      "name": "Aerolite",
+      "synid": 49514,
+      "entrytype": 1
+    },
+    {
+      "id": 40,
+      "name": "Aeschynite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 47,
+      "name": "Agardite-(Ca)",
+      "synid": 7026,
+      "entrytype": 1
+    },
+    {
+      "id": 54,
+      "name": "Aglaite",
+      "synid": 4491,
+      "entrytype": 1
+    },
+    {
+      "id": 62,
+      "name": "Aidrylite",
+      "synid": 10684,
+      "entrytype": 1
+    },
+    {
+      "id": 79,
+      "name": "Alumino-ferro-hornblende",
+      "synid": 1519,
+      "entrytype": 1
+    },
+    {
+      "id": 83,
+      "name": "Aluminobarroisite",
+      "synid": 539,
+      "entrytype": 1
+    },
+    {
+      "id": 84,
+      "name": "Aluminowinchite",
+      "synid": 4296,
+      "entrytype": 1
+    },
+    {
+      "id": 85,
+      "name": "Alumino-magnesio-hornblende",
+      "synid": 2524,
+      "entrytype": 1
+    },
+    {
+      "id": 98,
+      "name": "Aluminokatophorite",
+      "synid": 2168,
+      "entrytype": 1
+    },
+    {
+      "id": 124,
+      "name": "Allanite",
+      "synid": 46220,
+      "entrytype": 1
+    },
+    {
+      "id": 132,
+      "name": "Allemontite",
+      "synid": 3775,
+      "entrytype": 1
+    },
+    {
+      "id": 151,
+      "name": "Altmarkite",
+      "synid": 2360,
+      "entrytype": 1
+    },
+    {
+      "id": 212,
+      "name": "Anarakite",
+      "synid": 26600,
+      "entrytype": 1
+    },
+    {
+      "id": 230,
+      "name": "Angelardite",
+      "synid": 4194,
+      "entrytype": 1
+    },
+    {
+      "id": 238,
+      "name": "Ankangite",
+      "synid": 2567,
+      "entrytype": 1
+    },
+    {
+      "id": 256,
+      "name": "Anthracene",
+      "synid": 2269,
+      "entrytype": 1
+    },
+    {
+      "id": 261,
+      "name": "Antillite",
+      "synid": 5760,
+      "entrytype": 1
+    },
+    {
+      "id": 269,
+      "name": "Antozonite",
+      "synid": 30325,
+      "entrytype": 1
+    },
+    {
+      "id": 277,
+      "name": "Aphrizite",
+      "synid": 4003,
+      "entrytype": 1
+    },
+    {
+      "id": 278,
+      "name": "Aphrosiderite",
+      "synid": 967,
+      "entrytype": 1
+    },
+    {
+      "id": 297,
+      "name": "Arsenosulvanite",
+      "synid": 1113,
+      "entrytype": 1
+    },
+    {
+      "id": 309,
+      "name": "Arakawaite",
+      "synid": 4176,
+      "entrytype": 1
+    },
+    {
+      "id": 337,
+      "name": "Mangano-magnesian Alum",
+      "synid": 11634,
+      "entrytype": 1
+    },
+    {
+      "id": 339,
+      "name": "Arkelite",
+      "synid": 3897,
+      "entrytype": 1
+    },
+    {
+      "id": 345,
+      "name": "Arnimite",
+      "synid": 268,
+      "entrytype": 1
+    },
+    {
+      "id": 352,
+      "name": "Arsenantimonnickelkies",
+      "synid": 353,
+      "entrytype": 1
+    },
+    {
+      "id": 355,
+      "name": "Arsenbrackenbuschite",
+      "synid": 6807,
+      "entrytype": 1
+    },
+    {
+      "id": 358,
+      "name": "Arsenioardennite",
+      "synid": 322,
+      "entrytype": 1
+    },
+    {
+      "id": 396,
+      "name": "Na-Phlogopite",
+      "synid": 27494,
+      "entrytype": 1
+    },
+    {
+      "id": 425,
+      "name": "Auroantimonite",
+      "synid": 6810,
+      "entrytype": 1
+    },
+    {
+      "id": 440,
+      "name": "Axinite",
+      "synid": 29239,
+      "entrytype": 1
+    },
+    {
+      "id": 443,
+      "name": "Azorite",
+      "synid": 4421,
+      "entrytype": 1
+    },
+    {
+      "id": 450,
+      "name": "Aluminotschermakite",
+      "synid": 4035,
+      "entrytype": 1
+    },
+    {
+      "id": 465,
+      "name": "Barium-Brewsterite",
+      "synid": 6832,
+      "entrytype": 1
+    },
+    {
+      "id": 489,
+      "name": "Baiyuneboite-(Ce)",
+      "synid": 1129,
+      "entrytype": 1
+    },
+    {
+      "id": 503,
+      "name": "Bamlite",
+      "synid": 3662,
+      "entrytype": 1
+    },
+    {
+      "id": 515,
+      "name": "Barbierite",
+      "synid": 1624,
+      "entrytype": 1
+    },
+    {
+      "id": 527,
+      "name": "Bariopyrochlore (of Hogarth 1977)",
+      "synid": 40348,
+      "entrytype": 1
+    },
+    {
+      "id": 530,
+      "name": "Barium-Alumopharmacosiderite",
+      "synid": 40283,
+      "entrytype": 1
+    },
+    {
+      "id": 535,
+      "name": "Barrandite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 552,
+      "name": "Barytocalcite (of Johnston)",
+      "synid": 146,
+      "entrytype": 1
+    },
+    {
+      "id": 555,
+      "name": "Basaluminite",
+      "synid": 1474,
+      "entrytype": 1
+    },
+    {
+      "id": 595,
+      "name": "Beckelite",
+      "synid": 775,
+      "entrytype": 1
+    },
+    {
+      "id": 620,
+      "name": "Bementite (of Dana)",
+      "synid": 1218,
+      "entrytype": 1
+    },
+    {
+      "id": 648,
+      "name": "Moissanite-beta",
+      "synid": 34120,
+      "entrytype": 1
+    },
+    {
+      "id": 708,
+      "name": "Bohnerz",
+      "synid": 588,
+      "entrytype": 1
+    },
+    {
+      "id": 724,
+      "name": "Borishanskiite",
+      "synid": 3251,
+      "entrytype": 1
+    },
+    {
+      "id": 747,
+      "name": "Brabantite",
+      "synid": 6865,
+      "entrytype": 1
+    },
+    {
+      "id": 777,
+      "name": "Brizzite",
+      "synid": 778,
+      "entrytype": 1
+    },
+    {
+      "id": 781,
+      "name": "Brodrickite",
+      "synid": 4170,
+      "entrytype": 1
+    },
+    {
+      "id": 841,
+      "name": "Calciovolborthite",
+      "synid": 4073,
+      "entrytype": 1
+    },
+    {
+      "id": 843,
+      "name": "Cadmium-bearing Smithsonite",
+      "synid": 3688,
+      "entrytype": 1
+    },
+    {
+      "id": 848,
+      "name": "Caesium-Kupletskite",
+      "synid": 6853,
+      "entrytype": 1
+    },
+    {
+      "id": 932,
+      "name": "Cerotungstite-(Ce)",
+      "synid": 7380,
+      "entrytype": 1
+    },
+    {
+      "id": 942,
+      "name": "Cesstibtantite",
+      "synid": 40360,
+      "entrytype": 1
+    },
+    {
+      "id": 980,
+      "name": "Chlorotile (of Frenzel)",
+      "synid": 29312,
+      "entrytype": 1
+    },
+    {
+      "id": 999,
+      "name": "Chevkinite",
+      "synid": 39614,
+      "entrytype": 1
+    },
+    {
+      "id": 1009,
+      "name": "Chloanthite",
+      "synid": 2897,
+      "entrytype": 1
+    },
+    {
+      "id": 1046,
+      "name": "Chukhrovite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 1063,
+      "name": "Clevelandite",
+      "synid": 7688,
+      "entrytype": 1
+    },
+    {
+      "id": 1085,
+      "name": "Clinotyrolite",
+      "synid": 42724,
+      "entrytype": 1
+    },
+    {
+      "id": 1112,
+      "name": "Columbite",
+      "synid": 8667,
+      "entrytype": 1
+    },
+    {
+      "id": 1216,
+      "name": "Cobaltoan Arsenopyrite",
+      "synid": 11393,
+      "entrytype": 1
+    },
+    {
+      "id": 1220,
+      "name": "Dannemorite",
+      "synid": 7168,
+      "entrytype": 1
+    },
+    {
+      "id": 1221,
+      "name": "Danubite",
+      "synid": 51143,
+      "entrytype": 1
+    },
+    {
+      "id": 1228,
+      "name": "Dashkesanite",
+      "synid": 27445,
+      "entrytype": 1
+    },
+    {
+      "id": 1232,
+      "name": "Davidite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 1293,
+      "name": "Diomignite",
+      "synid": 4380,
+      "entrytype": 1
+    },
+    {
+      "id": 1347,
+      "name": "Ekdemite",
+      "synid": 1363,
+      "entrytype": 1
+    },
+    {
+      "id": 1381,
+      "name": "Endellite",
+      "synid": 10409,
+      "entrytype": 1
+    },
+    {
+      "id": 1395,
+      "name": "Eremeevite",
+      "synid": 2090,
+      "entrytype": 1
+    },
+    {
+      "id": 1437,
+      "name": "Tennantite-Tetrahedrite Series",
+      "synid": 29338,
+      "entrytype": 1
+    },
+    {
+      "id": 1455,
+      "name": "Farrallonite",
+      "synid": 31313,
+      "entrytype": 1
+    },
+    {
+      "id": 1457,
+      "name": "Garronit-Ca",
+      "synid": 1653,
+      "entrytype": 1
+    },
+    {
+      "id": 1462,
+      "name": "Ferro-aluminotschermakite",
+      "synid": 1532,
+      "entrytype": 1
+    },
+    {
+      "id": 1470,
+      "name": "Alumino-ferrowinchite",
+      "synid": 1534,
+      "entrytype": 1
+    },
+    {
+      "id": 1486,
+      "name": "Ferri-annite",
+      "synid": 7333,
+      "entrytype": 1
+    },
+    {
+      "id": 1491,
+      "name": "Ferridravite",
+      "synid": 3274,
+      "entrytype": 1
+    },
+    {
+      "id": 1506,
+      "name": "Ferro-åkermanite",
+      "synid": 471953,
+      "entrytype": 1
+    },
+    {
+      "id": 1508,
+      "name": "Alumino-ferrobarroisite",
+      "synid": 1510,
+      "entrytype": 1
+    },
+    {
+      "id": 1553,
+      "name": "Fitchtelite",
+      "synid": 1545,
+      "entrytype": 1
+    },
+    {
+      "id": 1569,
+      "name": "Fluocerite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 1571,
+      "name": "Kornite",
+      "synid": 2255,
+      "entrytype": 1
+    },
+    {
+      "id": 1625,
+      "name": "Gabbronite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 1630,
+      "name": "Gagates",
+      "synid": 9355,
+      "entrytype": 1
+    },
+    {
+      "id": 1658,
+      "name": "Gatehousite",
+      "synid": 6966,
+      "entrytype": 1
+    },
+    {
+      "id": 1736,
+      "name": "Grandite",
+      "synid": 8597,
+      "entrytype": 1
+    },
+    {
+      "id": 1762,
+      "name": "Guanglinite",
+      "synid": 2055,
+      "entrytype": 1
+    },
+    {
+      "id": 1772,
+      "name": "Guimaraesite (of Gagarin & Cuomo)",
+      "synid": 1425,
+      "entrytype": 1
+    },
+    {
+      "id": 1799,
+      "name": "Hair-salt",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 1825,
+      "name": "Hastite",
+      "synid": 1527,
+      "entrytype": 1
+    },
+    {
+      "id": 1847,
+      "name": "Heijtmanite",
+      "synid": 1849,
+      "entrytype": 1
+    },
+    {
+      "id": 1850,
+      "name": "Heliophyllite",
+      "synid": 1363,
+      "entrytype": 1
+    },
+    {
+      "id": 1851,
+      "name": "Heliotrope",
+      "synid": 7616,
+      "entrytype": 1
+    },
+    {
+      "id": 1872,
+      "name": "Hepatic Pyrites",
+      "synid": 6117,
+      "entrytype": 1
+    },
+    {
+      "id": 1879,
+      "name": "Herschelite",
+      "synid": 6856,
+      "entrytype": 1
+    },
+    {
+      "id": 1895,
+      "name": "Heyrovskite",
+      "synid": 6993,
+      "entrytype": 1
+    },
+    {
+      "id": 1916,
+      "name": "Högbomite",
+      "synid": 39983,
+      "entrytype": 1
+    },
+    {
+      "id": 1980,
+      "name": "Hydromarchite",
+      "synid": 1985,
+      "entrytype": 1
+    },
+    {
+      "id": 1984,
+      "name": "Hydrophilite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 2081,
+      "name": "Jasp-agate",
+      "synid": 52,
+      "entrytype": 1
+    },
+    {
+      "id": 2134,
+      "name": "Kakochlor",
+      "synid": 29875,
+      "entrytype": 1
+    },
+    {
+      "id": 2366,
+      "name": "Lehiite",
+      "synid": 1147,
+      "entrytype": 1
+    },
+    {
+      "id": 2460,
+      "name": "Lusungite",
+      "synid": 1787,
+      "entrytype": 1
+    },
+    {
+      "id": 2478,
+      "name": "Magnesiogedrite",
+      "synid": 1665,
+      "entrytype": 1
+    },
+    {
+      "id": 2484,
+      "name": "Magnesiosadanagaite",
+      "synid": 3499,
+      "entrytype": 1
+    },
+    {
+      "id": 2489,
+      "name": "Magnesiocummingtonite",
+      "synid": 1170,
+      "entrytype": 1
+    },
+    {
+      "id": 2515,
+      "name": "Magnesium Astrophyllite",
+      "synid": 2487,
+      "entrytype": 1
+    },
+    {
+      "id": 2527,
+      "name": "Magnesioholmquistite",
+      "synid": 1923,
+      "entrytype": 1
+    },
+    {
+      "id": 2534,
+      "name": "Magnesio-aluminotaramite",
+      "synid": 6798,
+      "entrytype": 1
+    },
+    {
+      "id": 2536,
+      "name": "Magnesio-anthophyllite",
+      "synid": 254,
+      "entrytype": 1
+    },
+    {
+      "id": 2618,
+      "name": "Mckelveyite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 2634,
+      "name": "Borgströmite",
+      "synid": 1983,
+      "entrytype": 1
+    },
+    {
+      "id": 2635,
+      "name": "Melilite",
+      "synid": 29310,
+      "entrytype": 1
+    },
+    {
+      "id": 2672,
+      "name": "Metahalloysite",
+      "synid": 10408,
+      "entrytype": 1
+    },
+    {
+      "id": 2731,
+      "name": "Miyashiroite",
+      "synid": 2944,
+      "entrytype": 1
+    },
+    {
+      "id": 2759,
+      "name": "Monsmedite",
+      "synid": 4203,
+      "entrytype": 1
+    },
+    {
+      "id": 2855,
+      "name": "Natrofairchildite",
+      "synid": 2945,
+      "entrytype": 1
+    },
+    {
+      "id": 2908,
+      "name": "Nioboaeschynite-(Ce)",
+      "synid": 37,
+      "entrytype": 1
+    },
+    {
+      "id": 2909,
+      "name": "Nioboaeschynite-(Nd)",
+      "synid": 38,
+      "entrytype": 1
+    },
+    {
+      "id": 2921,
+      "name": "Nobelite",
+      "synid": 7197,
+      "entrytype": 1
+    },
+    {
+      "id": 2927,
+      "name": "Nordite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 2961,
+      "name": "Ogcoite",
+      "synid": 3424,
+      "entrytype": 1
+    },
+    {
+      "id": 2979,
+      "name": "Olive Copper Ore",
+      "synid": 2981,
+      "entrytype": 1
+    },
+    {
+      "id": 2980,
+      "name": "Olivenerz",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 2983,
+      "name": "Olivine",
+      "synid": 29264,
+      "entrytype": 1
+    },
+    {
+      "id": 2992,
+      "name": "Oncosine",
+      "synid": 2815,
+      "entrytype": 1
+    },
+    {
+      "id": 2995,
+      "name": "Onofrite (of Haidinger)",
+      "synid": 11365,
+      "entrytype": 1
+    },
+    {
+      "id": 3020,
+      "name": "Orpheite",
+      "synid": 1908,
+      "entrytype": 1
+    },
+    {
+      "id": 3056,
+      "name": "P-Veatchite",
+      "synid": 7351,
+      "entrytype": 1
+    },
+    {
+      "id": 3079,
+      "name": "Parabariomicrolite",
+      "synid": 47924,
+      "entrytype": 1
+    },
+    {
+      "id": 3088,
+      "name": "Parafransoleite",
+      "synid": 3089,
+      "entrytype": 1
+    },
+    {
+      "id": 3103,
+      "name": "Paranite-(Y)",
+      "synid": 7215,
+      "entrytype": 1
+    },
+    {
+      "id": 3112,
+      "name": "Paraspurrite",
+      "synid": 3734,
+      "entrytype": 1
+    },
+    {
+      "id": 3132,
+      "name": "Paulingite",
+      "synid": 470364,
+      "entrytype": 1
+    },
+    {
+      "id": 3196,
+      "name": "Phosinaite",
+      "synid": 7231,
+      "entrytype": 1
+    },
+    {
+      "id": 3257,
+      "name": "Polycrase-(Y)",
+      "synid": 1425,
+      "entrytype": 1
+    },
+    {
+      "id": 3261,
+      "name": "Polymignite",
+      "synid": 6657,
+      "entrytype": 1
+    },
+    {
+      "id": 3268,
+      "name": "Potassium-fluoro-richterite",
+      "synid": 7244,
+      "entrytype": 1
+    },
+    {
+      "id": 3324,
+      "name": "Pyrosmalite",
+      "synid": 8865,
+      "entrytype": 1
+    },
+    {
+      "id": 3344,
+      "name": "Quincite",
+      "synid": 9819,
+      "entrytype": 1
+    },
+    {
+      "id": 3346,
+      "name": "Quiscqueite",
+      "synid": 11171,
+      "entrytype": 1
+    },
+    {
+      "id": 3400,
+      "name": "Rhabdophane",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 3434,
+      "name": "Rock Milk",
+      "synid": 46666,
+      "entrytype": 1
+    },
+    {
+      "id": 3562,
+      "name": "Scherbinaite",
+      "synid": 3636,
+      "entrytype": 1
+    },
+    {
+      "id": 3685,
+      "name": "Smaltite",
+      "synid": 3682,
+      "entrytype": 1
+    },
+    {
+      "id": 3690,
+      "name": "Smolianinovite",
+      "synid": 7298,
+      "entrytype": 1
+    },
+    {
+      "id": 3696,
+      "name": "Sodium Gedrite",
+      "synid": 7305,
+      "entrytype": 1
+    },
+    {
+      "id": 3697,
+      "name": "Sodium Dachiardite",
+      "synid": 6896,
+      "entrytype": 1
+    },
+    {
+      "id": 3698,
+      "name": "Sodium Phlogopite",
+      "synid": 27494,
+      "entrytype": 1
+    },
+    {
+      "id": 3704,
+      "name": "Sodium-anthophyllite",
+      "synid": 7301,
+      "entrytype": 1
+    },
+    {
+      "id": 3707,
+      "name": "Sophiite",
+      "synid": 3714,
+      "entrytype": 1
+    },
+    {
+      "id": 3780,
+      "name": "Stibioluzonite (of Stevanović)",
+      "synid": 2461,
+      "entrytype": 1
+    },
+    {
+      "id": 3925,
+      "name": "Tetranatrolite",
+      "synid": 1724,
+      "entrytype": 1
+    },
+    {
+      "id": 3937,
+      "name": "Theresmagnanite",
+      "synid": 7335,
+      "entrytype": 1
+    },
+    {
+      "id": 3968,
+      "name": "Tinnuculite",
+      "synid": 7337,
+      "entrytype": 1
+    },
+    {
+      "id": 4119,
+      "name": "Ursilite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 4132,
+      "name": "Vabanite",
+      "synid": 2082,
+      "entrytype": 1
+    },
+    {
+      "id": 4153,
+      "name": "Vanuranylite",
+      "synid": 4152,
+      "entrytype": 1
+    },
+    {
+      "id": 4215,
+      "name": "Wuonnemit",
+      "synid": 4216,
+      "entrytype": 1
+    },
+    {
+      "id": 4305,
+      "name": "Wolframite",
+      "synid": 10288,
+      "entrytype": 1
+    },
+    {
+      "id": 4307,
+      "name": "Wollastonite-7T",
+      "synid": 7370,
+      "entrytype": 1
+    },
+    {
+      "id": 4329,
+      "name": "Xanthochroitea",
+      "synid": 10991,
+      "entrytype": 1
+    },
+    {
+      "id": 4368,
+      "name": "Yttrobetafite (of Hogarth 1977)",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 4404,
+      "name": "Zinalsite",
+      "synid": 1588,
+      "entrytype": 1
+    },
+    {
+      "id": 4439,
+      "name": "Ablick clay",
+      "synid": 5,
+      "entrytype": 1
+    },
+    {
+      "id": 4440,
+      "name": "Ablickite",
+      "synid": 5,
+      "entrytype": 1
+    },
+    {
+      "id": 4441,
+      "name": "Akanthite",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4442,
+      "name": "Beta-Argentite",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4443,
+      "name": "Para-Silberglanz",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4444,
+      "name": "Vitreous Silver",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4445,
+      "name": "Silberglanz",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4446,
+      "name": "Silver Glance",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4447,
+      "name": "Argyrose",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4448,
+      "name": "Argyrite",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4449,
+      "name": "Glanzerz",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4450,
+      "name": "Henkelite",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4451,
+      "name": "Weicherz",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4452,
+      "name": "Achtaryndit",
+      "synid": 17,
+      "entrytype": 1
+    },
+    {
+      "id": 4453,
+      "name": "Achtarandit",
+      "synid": 17,
+      "entrytype": 1
+    },
+    {
+      "id": 4454,
+      "name": "Actarandite",
+      "synid": 17,
+      "entrytype": 1
+    },
+    {
+      "id": 4455,
+      "name": "Achtarandite",
+      "synid": 17,
+      "entrytype": 1
+    },
+    {
+      "id": 4456,
+      "name": "Actinote",
+      "synid": 18,
+      "entrytype": 1
+    },
+    {
+      "id": 4457,
+      "name": "Actynolin",
+      "synid": 18,
+      "entrytype": 1
+    },
+    {
+      "id": 4458,
+      "name": "Actynolite",
+      "synid": 18,
+      "entrytype": 1
+    },
+    {
+      "id": 4459,
+      "name": "Stralite",
+      "synid": 18,
+      "entrytype": 1
+    },
+    {
+      "id": 4460,
+      "name": "Zillerite (of Fersman)",
+      "synid": 26565,
+      "entrytype": 1
+    },
+    {
+      "id": 4461,
+      "name": "Stibolite",
+      "synid": 18,
+      "entrytype": 1
+    },
+    {
+      "id": 4462,
+      "name": "Adamite (of Friedel)",
+      "synid": 21,
+      "entrytype": 1
+    },
+    {
+      "id": 4463,
+      "name": "Adamine",
+      "synid": 21,
+      "entrytype": 1
+    },
+    {
+      "id": 4464,
+      "name": "Adulaire",
+      "synid": 28,
+      "entrytype": 1
+    },
+    {
+      "id": 4465,
+      "name": "Adular",
+      "synid": 28,
+      "entrytype": 1
+    },
+    {
+      "id": 4466,
+      "name": "Edelforsite",
+      "synid": 30,
+      "entrytype": 1
+    },
+    {
+      "id": 4467,
+      "name": "Acmite-Augite",
+      "synid": 32,
+      "entrytype": 1
+    },
+    {
+      "id": 4469,
+      "name": "Aegirine-Diopside",
+      "synid": 32,
+      "entrytype": 1
+    },
+    {
+      "id": 4470,
+      "name": "Aegirine-Hedenbergite",
+      "synid": 32,
+      "entrytype": 1
+    },
+    {
+      "id": 4471,
+      "name": "Acmite",
+      "synid": 31,
+      "entrytype": 1
+    },
+    {
+      "id": 4472,
+      "name": "Achmit",
+      "synid": 31,
+      "entrytype": 1
+    },
+    {
+      "id": 4473,
+      "name": "Aegirite",
+      "synid": 31,
+      "entrytype": 1
+    },
+    {
+      "id": 4474,
+      "name": "Agerit",
+      "synid": 31,
+      "entrytype": 1
+    },
+    {
+      "id": 4475,
+      "name": "Ägirin",
+      "synid": 31,
+      "entrytype": 1
+    },
+    {
+      "id": 4476,
+      "name": "Aegyrine",
+      "synid": 31,
+      "entrytype": 1
+    },
+    {
+      "id": 4477,
+      "name": "Aegyrite",
+      "synid": 31,
+      "entrytype": 1
+    },
+    {
+      "id": 4478,
+      "name": "Aegerine",
+      "synid": 31,
+      "entrytype": 1
+    },
+    {
+      "id": 4479,
+      "name": "Aegerite",
+      "synid": 31,
+      "entrytype": 1
+    },
+    {
+      "id": 4481,
+      "name": "Eschynite",
+      "synid": 40,
+      "entrytype": 1
+    },
+    {
+      "id": 4482,
+      "name": "Eschinite",
+      "synid": 40,
+      "entrytype": 1
+    },
+    {
+      "id": 4483,
+      "name": "Aschynite",
+      "synid": 40,
+      "entrytype": 1
+    },
+    {
+      "id": 4484,
+      "name": "Priorite",
+      "synid": 39,
+      "entrytype": 1
+    },
+    {
+      "id": 4485,
+      "name": "Blomstrandine",
+      "synid": 39,
+      "entrytype": 1
+    },
+    {
+      "id": 4486,
+      "name": "Aechynite",
+      "synid": 40,
+      "entrytype": 1
+    },
+    {
+      "id": 4488,
+      "name": "Agolite",
+      "synid": 45,
+      "entrytype": 1
+    },
+    {
+      "id": 4489,
+      "name": "Bildstein",
+      "synid": 45,
+      "entrytype": 1
+    },
+    {
+      "id": 4490,
+      "name": "Achates",
+      "synid": 51,
+      "entrytype": 1
+    },
+    {
+      "id": 4492,
+      "name": "Aikinite (of Chapman)",
+      "synid": 63,
+      "entrytype": 1
+    },
+    {
+      "id": 4493,
+      "name": "Belonite (of Glocker)",
+      "synid": 63,
+      "entrytype": 1
+    },
+    {
+      "id": 4494,
+      "name": "Nadelerz",
+      "synid": 63,
+      "entrytype": 1
+    },
+    {
+      "id": 4495,
+      "name": "Patrinite",
+      "synid": 63,
+      "entrytype": 1
+    },
+    {
+      "id": 4496,
+      "name": "Aciculite (of Nicol)",
+      "synid": 63,
+      "entrytype": 1
+    },
+    {
+      "id": 4497,
+      "name": "Aikenite",
+      "synid": 63,
+      "entrytype": 1
+    },
+    {
+      "id": 4498,
+      "name": "Acicular Bismuth",
+      "synid": 63,
+      "entrytype": 1
+    },
+    {
+      "id": 4499,
+      "name": "Okermanite",
+      "synid": 70,
+      "entrytype": 1
+    },
+    {
+      "id": 4500,
+      "name": "Oakermanite",
+      "synid": 70,
+      "entrytype": 1
+    },
+    {
+      "id": 4501,
+      "name": "Achrochordite",
+      "synid": 72,
+      "entrytype": 1
+    },
+    {
+      "id": 4502,
+      "name": "Acrochordite",
+      "synid": 72,
+      "entrytype": 1
+    },
+    {
+      "id": 4503,
+      "name": "Alabandite (of Beudant)",
+      "synid": 89,
+      "entrytype": 1
+    },
+    {
+      "id": 4504,
+      "name": "Braunsteinkies",
+      "synid": 89,
+      "entrytype": 1
+    },
+    {
+      "id": 4505,
+      "name": "Braunsteinblende",
+      "synid": 89,
+      "entrytype": 1
+    },
+    {
+      "id": 4506,
+      "name": "Manganblende",
+      "synid": 89,
+      "entrytype": 1
+    },
+    {
+      "id": 4507,
+      "name": "Manganglanz",
+      "synid": 89,
+      "entrytype": 1
+    },
+    {
+      "id": 4508,
+      "name": "Glance-blende",
+      "synid": 89,
+      "entrytype": 1
+    },
+    {
+      "id": 4509,
+      "name": "Alabastrite",
+      "synid": 90,
+      "entrytype": 1
+    },
+    {
+      "id": 4510,
+      "name": "Albâtre",
+      "synid": 90,
+      "entrytype": 1
+    },
+    {
+      "id": 4511,
+      "name": "White Feldspar",
+      "synid": 96,
+      "entrytype": 1
+    },
+    {
+      "id": 4512,
+      "name": "Hvit Viktril",
+      "synid": 1731,
+      "entrytype": 1
+    },
+    {
+      "id": 4514,
+      "name": "Olafite",
+      "synid": 96,
+      "entrytype": 1
+    },
+    {
+      "id": 4515,
+      "name": "Cryptoclase",
+      "synid": 96,
+      "entrytype": 1
+    },
+    {
+      "id": 4516,
+      "name": "Soda Feldspar",
+      "synid": 96,
+      "entrytype": 1
+    },
+    {
+      "id": 4517,
+      "name": "Hyposclerit",
+      "synid": 96,
+      "entrytype": 1
+    },
+    {
+      "id": 4519,
+      "name": "Kieselspath",
+      "synid": 96,
+      "entrytype": 1
+    },
+    {
+      "id": 4521,
+      "name": "Sodaclase",
+      "synid": 96,
+      "entrytype": 1
+    },
+    {
+      "id": 4522,
+      "name": "Tetartine",
+      "synid": 96,
+      "entrytype": 1
+    },
+    {
+      "id": 4524,
+      "name": "Alexeyevite",
+      "synid": 111,
+      "entrytype": 1
+    },
+    {
+      "id": 4525,
+      "name": "Allaktit",
+      "synid": 122,
+      "entrytype": 1
+    },
+    {
+      "id": 4526,
+      "name": "Allaktite",
+      "synid": 122,
+      "entrytype": 1
+    },
+    {
+      "id": 4527,
+      "name": "Cerepidote",
+      "synid": 125,
+      "entrytype": 1
+    },
+    {
+      "id": 4528,
+      "name": "Cerine",
+      "synid": 11433,
+      "entrytype": 1
+    },
+    {
+      "id": 4529,
+      "name": "Cerorthite",
+      "synid": 125,
+      "entrytype": 1
+    },
+    {
+      "id": 4530,
+      "name": "Yttro-orthite",
+      "synid": 127,
+      "entrytype": 1
+    },
+    {
+      "id": 4531,
+      "name": "Orthite",
+      "synid": 124,
+      "entrytype": 1
+    },
+    {
+      "id": 4532,
+      "name": "Uralorthite",
+      "synid": 46220,
+      "entrytype": 1
+    },
+    {
+      "id": 4533,
+      "name": "Tautolite",
+      "synid": 124,
+      "entrytype": 1
+    },
+    {
+      "id": 4534,
+      "name": "Pyrothite",
+      "synid": 124,
+      "entrytype": 1
+    },
+    {
+      "id": 4535,
+      "name": "Bucklandite (of Lévy)",
+      "synid": 46220,
+      "entrytype": 1
+    },
+    {
+      "id": 4536,
+      "name": "Багратионит",
+      "synid": 8507,
+      "entrytype": 1
+    },
+    {
+      "id": 4537,
+      "name": "Treanorite",
+      "synid": 46220,
+      "entrytype": 1
+    },
+    {
+      "id": 4538,
+      "name": "Arsenikantimon",
+      "synid": 132,
+      "entrytype": 1
+    },
+    {
+      "id": 4539,
+      "name": "Arsenikspießglanz",
+      "synid": 132,
+      "entrytype": 1
+    },
+    {
+      "id": 4540,
+      "name": "Alloclase",
+      "synid": 134,
+      "entrytype": 1
+    },
+    {
+      "id": 4541,
+      "name": "Elhuyarite",
+      "synid": 139,
+      "entrytype": 1
+    },
+    {
+      "id": 4542,
+      "name": "Riemannite",
+      "synid": 139,
+      "entrytype": 1
+    },
+    {
+      "id": 4543,
+      "name": "Allophanite",
+      "synid": 139,
+      "entrytype": 1
+    },
+    {
+      "id": 4544,
+      "name": "Ilbaite",
+      "synid": 139,
+      "entrytype": 1
+    },
+    {
+      "id": 4545,
+      "name": "Alluaudite (of Damour)",
+      "synid": 1507,
+      "entrytype": 1
+    },
+    {
+      "id": 4546,
+      "name": "Vitriolum Zinci album nativum",
+      "synid": 1731,
+      "entrytype": 1
+    },
+    {
+      "id": 4547,
+      "name": "Oriental Garnet",
+      "synid": 452,
+      "entrytype": 1
+    },
+    {
+      "id": 4548,
+      "name": "Alabandicus (of Pliny)",
+      "synid": 452,
+      "entrytype": 1
+    },
+    {
+      "id": 4549,
+      "name": "Alamandine",
+      "synid": 452,
+      "entrytype": 1
+    },
+    {
+      "id": 4550,
+      "name": "Almandite",
+      "synid": 452,
+      "entrytype": 1
+    },
+    {
+      "id": 4552,
+      "name": "Bromlite",
+      "synid": 146,
+      "entrytype": 1
+    },
+    {
+      "id": 4553,
+      "name": "Bicalcareocarbonate of Barytes",
+      "synid": 146,
+      "entrytype": 1
+    },
+    {
+      "id": 4554,
+      "name": "Elasmose (of d'Halloy)",
+      "synid": 147,
+      "entrytype": 1
+    },
+    {
+      "id": 4556,
+      "name": "Hallite (of Delamétherie)",
+      "synid": 154,
+      "entrytype": 1
+    },
+    {
+      "id": 4562,
+      "name": "Alumino-katophorite",
+      "synid": 2168,
+      "entrytype": 1
+    },
+    {
+      "id": 4563,
+      "name": "Alaunstein (of Werner)",
+      "synid": 161,
+      "entrytype": 1
+    },
+    {
+      "id": 4564,
+      "name": "Alaunspat",
+      "synid": 161,
+      "entrytype": 1
+    },
+    {
+      "id": 4565,
+      "name": "Kalioalunite",
+      "synid": 161,
+      "entrytype": 1
+    },
+    {
+      "id": 4566,
+      "name": "Aluminilite",
+      "synid": 161,
+      "entrytype": 1
+    },
+    {
+      "id": 4567,
+      "name": "Löwigite",
+      "synid": 161,
+      "entrytype": 1
+    },
+    {
+      "id": 4568,
+      "name": "Keramohalite (of Glocker)",
+      "synid": 162,
+      "entrytype": 1
+    },
+    {
+      "id": 4569,
+      "name": "Katharite",
+      "synid": 162,
+      "entrytype": 1
+    },
+    {
+      "id": 4570,
+      "name": "Katherite",
+      "synid": 162,
+      "entrytype": 1
+    },
+    {
+      "id": 4571,
+      "name": "Alunogenite",
+      "synid": 162,
+      "entrytype": 1
+    },
+    {
+      "id": 4572,
+      "name": "Halotrichite (of Hausmann)",
+      "synid": 162,
+      "entrytype": 1
+    },
+    {
+      "id": 4573,
+      "name": "Davite",
+      "synid": 162,
+      "entrytype": 1
+    },
+    {
+      "id": 4574,
+      "name": "Stypterite",
+      "synid": 162,
+      "entrytype": 1
+    },
+    {
+      "id": 4575,
+      "name": "Tigerøye",
+      "synid": 3960,
+      "entrytype": 1
+    },
+    {
+      "id": 4576,
+      "name": "Kobberkisel",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 4577,
+      "name": "Silver Amalgam",
+      "synid": 181,
+      "entrytype": 1
+    },
+    {
+      "id": 4578,
+      "name": "Mercure Argental",
+      "synid": 181,
+      "entrytype": 1
+    },
+    {
+      "id": 4579,
+      "name": "Mercurial Silver",
+      "synid": 181,
+      "entrytype": 1
+    },
+    {
+      "id": 4580,
+      "name": "Pella Natural",
+      "synid": 181,
+      "entrytype": 1
+    },
+    {
+      "id": 4581,
+      "name": "Amazon Stone",
+      "synid": 184,
+      "entrytype": 1
+    },
+    {
+      "id": 4582,
+      "name": "Agstein",
+      "synid": 188,
+      "entrytype": 1
+    },
+    {
+      "id": 4583,
+      "name": "Amicchite",
+      "synid": 199,
+      "entrytype": 1
+    },
+    {
+      "id": 4584,
+      "name": "Analcine",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4585,
+      "name": "Analcite",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4586,
+      "name": "Analcidite",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4587,
+      "name": "Analzim",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4588,
+      "name": "Cubicite",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4589,
+      "name": "Cubizite",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4590,
+      "name": "Cuboite",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4591,
+      "name": "Euthallite",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4592,
+      "name": "Euthalite",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4593,
+      "name": "Euthalith",
+      "synid": 210,
+      "entrytype": 1
+    },
+    {
+      "id": 4596,
+      "name": "Xanthotitane",
+      "synid": 213,
+      "entrytype": 1
+    },
+    {
+      "id": 4597,
+      "name": "Xanthotitanit",
+      "synid": 213,
+      "entrytype": 1
+    },
+    {
+      "id": 4598,
+      "name": "Anidrite",
+      "synid": 234,
+      "entrytype": 1
+    },
+    {
+      "id": 4599,
+      "name": "Gekrösstein",
+      "synid": 234,
+      "entrytype": 1
+    },
+    {
+      "id": 4600,
+      "name": "Basaltkainit",
+      "synid": 235,
+      "entrytype": 1
+    },
+    {
+      "id": 4601,
+      "name": "Nickel Bloom",
+      "synid": 240,
+      "entrytype": 1
+    },
+    {
+      "id": 4602,
+      "name": "Nickel Ocher",
+      "synid": 240,
+      "entrytype": 1
+    },
+    {
+      "id": 4603,
+      "name": "Ochra niccoli",
+      "synid": 240,
+      "entrytype": 1
+    },
+    {
+      "id": 4604,
+      "name": "Rionite (of Brauns and Petersen)",
+      "synid": 242,
+      "entrytype": 1
+    },
+    {
+      "id": 4605,
+      "name": "Wismutfahlerz",
+      "synid": 40416,
+      "entrytype": 1
+    },
+    {
+      "id": 4606,
+      "name": "Beffanite",
+      "synid": 246,
+      "entrytype": 1
+    },
+    {
+      "id": 4607,
+      "name": "Beffonite",
+      "synid": 246,
+      "entrytype": 1
+    },
+    {
+      "id": 4608,
+      "name": "Anorthose",
+      "synid": 248,
+      "entrytype": 1
+    },
+    {
+      "id": 4609,
+      "name": "Pseudo-Orthoclase",
+      "synid": 248,
+      "entrytype": 1
+    },
+    {
+      "id": 4610,
+      "name": "Mikroklas",
+      "synid": 248,
+      "entrytype": 1
+    },
+    {
+      "id": 4611,
+      "name": "Soda-Microcline",
+      "synid": 248,
+      "entrytype": 1
+    },
+    {
+      "id": 4612,
+      "name": "Anthogrammite",
+      "synid": 254,
+      "entrytype": 1
+    },
+    {
+      "id": 4613,
+      "name": "Zermattite",
+      "synid": 260,
+      "entrytype": 1
+    },
+    {
+      "id": 4614,
+      "name": "Blätterserpentin",
+      "synid": 260,
+      "entrytype": 1
+    },
+    {
+      "id": 4615,
+      "name": "Stibiohexargentite",
+      "synid": 264,
+      "entrytype": 1
+    },
+    {
+      "id": 4616,
+      "name": "Antimony",
+      "synid": 262,
+      "entrytype": 1
+    },
+    {
+      "id": 4617,
+      "name": "Stelznerite",
+      "synid": 268,
+      "entrytype": 1
+    },
+    {
+      "id": 4619,
+      "name": "Apatito",
+      "synid": 29229,
+      "entrytype": 1
+    },
+    {
+      "id": 4620,
+      "name": "Agustite",
+      "synid": 29229,
+      "entrytype": 1
+    },
+    {
+      "id": 4621,
+      "name": "Sombrerite",
+      "synid": 29229,
+      "entrytype": 1
+    },
+    {
+      "id": 4622,
+      "name": "Aftalosa",
+      "synid": 280,
+      "entrytype": 1
+    },
+    {
+      "id": 4623,
+      "name": "Aftalosio",
+      "synid": 280,
+      "entrytype": 1
+    },
+    {
+      "id": 4624,
+      "name": "Aftitalite",
+      "synid": 280,
+      "entrytype": 1
+    },
+    {
+      "id": 4625,
+      "name": "Manganalaun",
+      "synid": 281,
+      "entrytype": 1
+    },
+    {
+      "id": 4626,
+      "name": "Albin",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4627,
+      "name": "Apofilita",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4628,
+      "name": "Apofillite",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4629,
+      "name": "Brünichite",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4630,
+      "name": "Brünnikite",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4631,
+      "name": "Mesoype",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4632,
+      "name": "Epointée",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4633,
+      "name": "Oxhaverite",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4634,
+      "name": "Oxheverite",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4635,
+      "name": "Pyramidal Zeolite",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4636,
+      "name": "Tesselite",
+      "synid": 283,
+      "entrytype": 1
+    },
+    {
+      "id": 4638,
+      "name": "Akwamaryn",
+      "synid": 289,
+      "entrytype": 1
+    },
+    {
+      "id": 4639,
+      "name": "Arragonite",
+      "synid": 307,
+      "entrytype": 1
+    },
+    {
+      "id": 4640,
+      "name": "Iglite",
+      "synid": 307,
+      "entrytype": 1
+    },
+    {
+      "id": 4641,
+      "name": "Igloite",
+      "synid": 307,
+      "entrytype": 1
+    },
+    {
+      "id": 4642,
+      "name": "Chimborazite",
+      "synid": 307,
+      "entrytype": 1
+    },
+    {
+      "id": 4643,
+      "name": "Oserskite",
+      "synid": 307,
+      "entrytype": 1
+    },
+    {
+      "id": 4644,
+      "name": "Ktypéite",
+      "synid": 307,
+      "entrytype": 1
+    },
+    {
+      "id": 4645,
+      "name": "Gel-Cassiterite",
+      "synid": 455,
+      "entrytype": 1
+    },
+    {
+      "id": 4646,
+      "name": "Arcanit",
+      "synid": 314,
+      "entrytype": 1
+    },
+    {
+      "id": 4647,
+      "name": "Arfvedsonite (of Brooke)",
+      "synid": 325,
+      "entrytype": 1
+    },
+    {
+      "id": 4648,
+      "name": "α-Argentite",
+      "synid": 10,
+      "entrytype": 1
+    },
+    {
+      "id": 4650,
+      "name": "Aarite",
+      "synid": 335,
+      "entrytype": 1
+    },
+    {
+      "id": 4651,
+      "name": "Arsenic",
+      "synid": 357,
+      "entrytype": 1
+    },
+    {
+      "id": 4652,
+      "name": "Mispickel",
+      "synid": 305,
+      "entrytype": 1
+    },
+    {
+      "id": 4653,
+      "name": "Arsenical Pyrites",
+      "synid": 305,
+      "entrytype": 1
+    },
+    {
+      "id": 4654,
+      "name": "Mistpuckel",
+      "synid": 305,
+      "entrytype": 1
+    },
+    {
+      "id": 4655,
+      "name": "Dalarnite",
+      "synid": 305,
+      "entrytype": 1
+    },
+    {
+      "id": 4656,
+      "name": "Plinian",
+      "synid": 305,
+      "entrytype": 1
+    },
+    {
+      "id": 4657,
+      "name": "Thalheimite",
+      "synid": 305,
+      "entrytype": 1
+    },
+    {
+      "id": 4658,
+      "name": "Arsenomarcasite",
+      "synid": 305,
+      "entrytype": 1
+    },
+    {
+      "id": 4659,
+      "name": "Arsenopolybasite (of Frondel)",
+      "synid": 367,
+      "entrytype": 1
+    },
+    {
+      "id": 4660,
+      "name": "Abbecasite",
+      "synid": 382,
+      "entrytype": 1
+    },
+    {
+      "id": 4661,
+      "name": "Asbeferrite",
+      "synid": 383,
+      "entrytype": 1
+    },
+    {
+      "id": 4662,
+      "name": "Asbestite",
+      "synid": 383,
+      "entrytype": 1
+    },
+    {
+      "id": 4663,
+      "name": "Asbestoîde",
+      "synid": 383,
+      "entrytype": 1
+    },
+    {
+      "id": 4664,
+      "name": "Asbestus",
+      "synid": 383,
+      "entrytype": 1
+    },
+    {
+      "id": 4665,
+      "name": "Earthy Cobalt",
+      "synid": 29875,
+      "entrytype": 1
+    },
+    {
+      "id": 4666,
+      "name": "Picroallumogene",
+      "synid": 3204,
+      "entrytype": 1
+    },
+    {
+      "id": 4667,
+      "name": "Acanite",
+      "synid": 392,
+      "entrytype": 1
+    },
+    {
+      "id": 4668,
+      "name": "Asterite",
+      "synid": 400,
+      "entrytype": 1
+    },
+    {
+      "id": 4669,
+      "name": "Halochalzit",
+      "synid": 406,
+      "entrytype": 1
+    },
+    {
+      "id": 4670,
+      "name": "Halochalcite",
+      "synid": 406,
+      "entrytype": 1
+    },
+    {
+      "id": 4671,
+      "name": "Aetheriastite",
+      "synid": 410,
+      "entrytype": 1
+    },
+    {
+      "id": 4672,
+      "name": "Attacolite",
+      "synid": 415,
+      "entrytype": 1
+    },
+    {
+      "id": 4673,
+      "name": "Augite-enstatite",
+      "synid": 420,
+      "entrytype": 1
+    },
+    {
+      "id": 4675,
+      "name": "Orichalcite",
+      "synid": 422,
+      "entrytype": 1
+    },
+    {
+      "id": 4676,
+      "name": "Buratite",
+      "synid": 422,
+      "entrytype": 1
+    },
+    {
+      "id": 4677,
+      "name": "Risséite",
+      "synid": 422,
+      "entrytype": 1
+    },
+    {
+      "id": 4678,
+      "name": "Messingite",
+      "synid": 422,
+      "entrytype": 1
+    },
+    {
+      "id": 4679,
+      "name": "Messingblüthe",
+      "synid": 422,
+      "entrytype": 1
+    },
+    {
+      "id": 4680,
+      "name": "Blue Calamine",
+      "synid": 422,
+      "entrytype": 1
+    },
+    {
+      "id": 4682,
+      "name": "Brickerite",
+      "synid": 432,
+      "entrytype": 1
+    },
+    {
+      "id": 4683,
+      "name": "Lime-Uranite",
+      "synid": 433,
+      "entrytype": 1
+    },
+    {
+      "id": 4684,
+      "name": "Calcium-Autunite",
+      "synid": 433,
+      "entrytype": 1
+    },
+    {
+      "id": 4685,
+      "name": "Calcouranite",
+      "synid": 433,
+      "entrytype": 1
+    },
+    {
+      "id": 4686,
+      "name": "Kalk-Uranglimmer",
+      "synid": 433,
+      "entrytype": 1
+    },
+    {
+      "id": 4687,
+      "name": "Souesite",
+      "synid": 439,
+      "entrytype": 1
+    },
+    {
+      "id": 4688,
+      "name": "Hyalite (of Klaproth)",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4689,
+      "name": "Oisanite (of Klaproth)",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4690,
+      "name": "Violet Schorl",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4691,
+      "name": "Afterschörl",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4692,
+      "name": "Oisannite",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4693,
+      "name": "Aksynit",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4694,
+      "name": "Thumite",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4695,
+      "name": "Thumerstein",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4696,
+      "name": "Tumite",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4697,
+      "name": "Yanolite",
+      "synid": 440,
+      "entrytype": 1
+    },
+    {
+      "id": 4698,
+      "name": "Blue Malachite",
+      "synid": 447,
+      "entrytype": 1
+    },
+    {
+      "id": 4699,
+      "name": "Armenite (of Delamétherie)",
+      "synid": 447,
+      "entrytype": 1
+    },
+    {
+      "id": 4700,
+      "name": "Kupferlasur",
+      "synid": 447,
+      "entrytype": 1
+    },
+    {
+      "id": 4701,
+      "name": "Lasur",
+      "synid": 447,
+      "entrytype": 1
+    },
+    {
+      "id": 4702,
+      "name": "Lasurite (of Haidinger)",
+      "synid": 447,
+      "entrytype": 1
+    },
+    {
+      "id": 4703,
+      "name": "Lasurit (of von Kobell)",
+      "synid": 447,
+      "entrytype": 1
+    },
+    {
+      "id": 4704,
+      "name": "Chessylite",
+      "synid": 447,
+      "entrytype": 1
+    },
+    {
+      "id": 4705,
+      "name": "Aanerödite",
+      "synid": 449,
+      "entrytype": 1
+    },
+    {
+      "id": 4706,
+      "name": "Aannerödite",
+      "synid": 449,
+      "entrytype": 1
+    },
+    {
+      "id": 4708,
+      "name": "Babepfite",
+      "synid": 476,
+      "entrytype": 1
+    },
+    {
+      "id": 4709,
+      "name": "Babylonian Quartz",
+      "synid": 477,
+      "entrytype": 1
+    },
+    {
+      "id": 4711,
+      "name": "Baddeleyite (of Fletcher)",
+      "synid": 480,
+      "entrytype": 1
+    },
+    {
+      "id": 4713,
+      "name": "Reitingerite",
+      "synid": 480,
+      "entrytype": 1
+    },
+    {
+      "id": 4715,
+      "name": "Bannermanite (of Hughes et al.)",
+      "synid": 508,
+      "entrytype": 1
+    },
+    {
+      "id": 4719,
+      "name": "Pandaite",
+      "synid": 40348,
+      "entrytype": 1
+    },
+    {
+      "id": 4720,
+      "name": "Barium-Nephelite",
+      "synid": 468,
+      "entrytype": 1
+    },
+    {
+      "id": 4721,
+      "name": "Barytes",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4722,
+      "name": "Aehrenstein",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4723,
+      "name": "Barite",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4724,
+      "name": "Baritite",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4725,
+      "name": "Barytine",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4726,
+      "name": "Baroite",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4727,
+      "name": "Boulonite",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4728,
+      "name": "Heavy Spar",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4729,
+      "name": "Bologna stone",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4730,
+      "name": "Bononian stone",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4731,
+      "name": "Tungspat",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4732,
+      "name": "Volnyne",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4733,
+      "name": "Michel-lévyte",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4735,
+      "name": "Litheophosphorus",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4736,
+      "name": "Barita",
+      "synid": 549,
+      "entrytype": 1
+    },
+    {
+      "id": 4737,
+      "name": "Barytocelestite",
+      "synid": 459,
+      "entrytype": 1
+    },
+    {
+      "id": 4738,
+      "name": "Barytocoelestin",
+      "synid": 459,
+      "entrytype": 1
+    },
+    {
+      "id": 4740,
+      "name": "Oxyhornblende",
+      "synid": 554,
+      "entrytype": 1
+    },
+    {
+      "id": 4741,
+      "name": "Lamprobolite",
+      "synid": 554,
+      "entrytype": 1
+    },
+    {
+      "id": 4742,
+      "name": "Basilite",
+      "synid": 556,
+      "entrytype": 1
+    },
+    {
+      "id": 4743,
+      "name": "Miltonite",
+      "synid": 557,
+      "entrytype": 1
+    },
+    {
+      "id": 4744,
+      "name": "Mirupolskite",
+      "synid": 557,
+      "entrytype": 1
+    },
+    {
+      "id": 4745,
+      "name": "Vibertite",
+      "synid": 557,
+      "entrytype": 1
+    },
+    {
+      "id": 4746,
+      "name": "Hemihydrate",
+      "synid": 557,
+      "entrytype": 1
+    },
+    {
+      "id": 4747,
+      "name": "Soluble Anhydrite",
+      "synid": 557,
+      "entrytype": 1
+    },
+    {
+      "id": 4748,
+      "name": "Plaster of Paris",
+      "synid": 557,
+      "entrytype": 1
+    },
+    {
+      "id": 4749,
+      "name": "Bastnaesite-(Ce)",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 4750,
+      "name": "Basikfluorcerium",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 4751,
+      "name": "Hemartite",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 4752,
+      "name": "Hydrocerite (of Glocker)",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 4753,
+      "name": "Kischtim-Parisite",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 4754,
+      "name": "Kischtimite",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 4755,
+      "name": "Kyshtymoparisite",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 4756,
+      "name": "Hydrofluocerite",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 4757,
+      "name": "Bastnaesite-(La)",
+      "synid": 561,
+      "entrytype": 1
+    },
+    {
+      "id": 4758,
+      "name": "Bastnaesite-(Y)",
+      "synid": 562,
+      "entrytype": 1
+    },
+    {
+      "id": 4759,
+      "name": "Bathwillit",
+      "synid": 567,
+      "entrytype": 1
+    },
+    {
+      "id": 4760,
+      "name": "Baumhauerite-I",
+      "synid": 572,
+      "entrytype": 1
+    },
+    {
+      "id": 4761,
+      "name": "Beauxite",
+      "synid": 575,
+      "entrytype": 1
+    },
+    {
+      "id": 4762,
+      "name": "Beckerelite",
+      "synid": 597,
+      "entrytype": 1
+    },
+    {
+      "id": 4763,
+      "name": "Beckite",
+      "synid": 600,
+      "entrytype": 1
+    },
+    {
+      "id": 4764,
+      "name": "Beyinite",
+      "synid": 605,
+      "entrytype": 1
+    },
+    {
+      "id": 4765,
+      "name": "Belovite (of Borodin and Kazakhova)",
+      "synid": 618,
+      "entrytype": 1
+    },
+    {
+      "id": 4766,
+      "name": "Belijankinit",
+      "synid": 619,
+      "entrytype": 1
+    },
+    {
+      "id": 4767,
+      "name": "Bementite (of Koenig)",
+      "synid": 621,
+      "entrytype": 1
+    },
+    {
+      "id": 4768,
+      "name": "Berylite",
+      "synid": 819,
+      "entrytype": 1
+    },
+    {
+      "id": 4769,
+      "name": "Beryll",
+      "synid": 819,
+      "entrytype": 1
+    },
+    {
+      "id": 4770,
+      "name": "Selenkupfer",
+      "synid": 645,
+      "entrytype": 1
+    },
+    {
+      "id": 4771,
+      "name": "Selencuprite",
+      "synid": 645,
+      "entrytype": 1
+    },
+    {
+      "id": 4772,
+      "name": "Selenocuprite",
+      "synid": 645,
+      "entrytype": 1
+    },
+    {
+      "id": 4773,
+      "name": "Selenite (of Rau)",
+      "synid": 645,
+      "entrytype": 1
+    },
+    {
+      "id": 4774,
+      "name": "β-Lomonosovite",
+      "synid": 647,
+      "entrytype": 1
+    },
+    {
+      "id": 4775,
+      "name": "Beudantite (of Lévy)",
+      "synid": 652,
+      "entrytype": 1
+    },
+    {
+      "id": 4776,
+      "name": "Bieirosite",
+      "synid": 652,
+      "entrytype": 1
+    },
+    {
+      "id": 4777,
+      "name": "Bezmertnovite",
+      "synid": 656,
+      "entrytype": 1
+    },
+    {
+      "id": 4778,
+      "name": "Vreckite",
+      "synid": 657,
+      "entrytype": 1
+    },
+    {
+      "id": 4779,
+      "name": "Biebrite",
+      "synid": 664,
+      "entrytype": 1
+    },
+    {
+      "id": 4780,
+      "name": "Biberite",
+      "synid": 664,
+      "entrytype": 1
+    },
+    {
+      "id": 4781,
+      "name": "Hydroxylbiotite",
+      "synid": 677,
+      "entrytype": 1
+    },
+    {
+      "id": 4782,
+      "name": "Rhombenglimmer",
+      "synid": 677,
+      "entrytype": 1
+    },
+    {
+      "id": 4783,
+      "name": "Odenite",
+      "synid": 677,
+      "entrytype": 1
+    },
+    {
+      "id": 4784,
+      "name": "Oderite",
+      "synid": 677,
+      "entrytype": 1
+    },
+    {
+      "id": 4785,
+      "name": "Odite",
+      "synid": 677,
+      "entrytype": 1
+    },
+    {
+      "id": 4786,
+      "name": "Manganous Manganite",
+      "synid": 680,
+      "entrytype": 1
+    },
+    {
+      "id": 4787,
+      "name": "Bischofite (of Ochsenius)",
+      "synid": 681,
+      "entrytype": 1
+    },
+    {
+      "id": 4788,
+      "name": "Bismuth",
+      "synid": 684,
+      "entrytype": 1
+    },
+    {
+      "id": 4789,
+      "name": "Wismut",
+      "synid": 684,
+      "entrytype": 1
+    },
+    {
+      "id": 4790,
+      "name": "Bismuthospharite",
+      "synid": 687,
+      "entrytype": 1
+    },
+    {
+      "id": 4791,
+      "name": "Bismutosphaerite",
+      "synid": 687,
+      "entrytype": 1
+    },
+    {
+      "id": 4792,
+      "name": "Dumreicherit",
+      "synid": 3204,
+      "entrytype": 1
+    },
+    {
+      "id": 4793,
+      "name": "Agnesite",
+      "synid": 687,
+      "entrytype": 1
+    },
+    {
+      "id": 4794,
+      "name": "Gregorite (of Adam)",
+      "synid": 687,
+      "entrytype": 1
+    },
+    {
+      "id": 4796,
+      "name": "Sitaparite",
+      "synid": 691,
+      "entrytype": 1
+    },
+    {
+      "id": 4797,
+      "name": "Blakeite (of Dana)",
+      "synid": 1126,
+      "entrytype": 1
+    },
+    {
+      "id": 4800,
+      "name": "Boehmite",
+      "synid": 707,
+      "entrytype": 1
+    },
+    {
+      "id": 4802,
+      "name": "Bolivianite",
+      "synid": 7606,
+      "entrytype": 1
+    },
+    {
+      "id": 4803,
+      "name": "Bolivian",
+      "synid": 715,
+      "entrytype": 1
+    },
+    {
+      "id": 4804,
+      "name": "Boothite (of Schaller)",
+      "synid": 720,
+      "entrytype": 1
+    },
+    {
+      "id": 4805,
+      "name": "Boracite (of Werner)",
+      "synid": 721,
+      "entrytype": 1
+    },
+    {
+      "id": 4806,
+      "name": "Parasite",
+      "synid": 721,
+      "entrytype": 1
+    },
+    {
+      "id": 4807,
+      "name": "b-Boracite",
+      "synid": 721,
+      "entrytype": 1
+    },
+    {
+      "id": 4808,
+      "name": "Metaboracite",
+      "synid": 721,
+      "entrytype": 1
+    },
+    {
+      "id": 4810,
+      "name": "Borazit",
+      "synid": 721,
+      "entrytype": 1
+    },
+    {
+      "id": 4811,
+      "name": "Chrysocolla (of Agricola)",
+      "synid": 722,
+      "entrytype": 1
+    },
+    {
+      "id": 4812,
+      "name": "Tincal",
+      "synid": 722,
+      "entrytype": 1
+    },
+    {
+      "id": 4813,
+      "name": "Borras",
+      "synid": 722,
+      "entrytype": 1
+    },
+    {
+      "id": 4814,
+      "name": "Baurak",
+      "synid": 722,
+      "entrytype": 1
+    },
+    {
+      "id": 4815,
+      "name": "Baurach",
+      "synid": 722,
+      "entrytype": 1
+    },
+    {
+      "id": 4816,
+      "name": "Bornite (of Haidinger)",
+      "synid": 727,
+      "entrytype": 1
+    },
+    {
+      "id": 4818,
+      "name": "Purple Copper Ore",
+      "synid": 727,
+      "entrytype": 1
+    },
+    {
+      "id": 4819,
+      "name": "Variegated Copper Ore",
+      "synid": 727,
+      "entrytype": 1
+    },
+    {
+      "id": 4820,
+      "name": "Erubescite",
+      "synid": 727,
+      "entrytype": 1
+    },
+    {
+      "id": 4821,
+      "name": "Chalcomiklite",
+      "synid": 727,
+      "entrytype": 1
+    },
+    {
+      "id": 4822,
+      "name": "Poikilite",
+      "synid": 727,
+      "entrytype": 1
+    },
+    {
+      "id": 4823,
+      "name": "Phillipsite (of Beudant)",
+      "synid": 727,
+      "entrytype": 1
+    },
+    {
+      "id": 4824,
+      "name": "Phillipsine",
+      "synid": 727,
+      "entrytype": 1
+    },
+    {
+      "id": 4825,
+      "name": "Neoplase",
+      "synid": 733,
+      "entrytype": 1
+    },
+    {
+      "id": 4826,
+      "name": "Palacheite",
+      "synid": 733,
+      "entrytype": 1
+    },
+    {
+      "id": 4827,
+      "name": "Red Iron Vitriol",
+      "synid": 733,
+      "entrytype": 1
+    },
+    {
+      "id": 4828,
+      "name": "Botryite",
+      "synid": 733,
+      "entrytype": 1
+    },
+    {
+      "id": 4829,
+      "name": "Botryt",
+      "synid": 733,
+      "entrytype": 1
+    },
+    {
+      "id": 4830,
+      "name": "Botryogenite",
+      "synid": 733,
+      "entrytype": 1
+    },
+    {
+      "id": 4831,
+      "name": "Quetenite",
+      "synid": 733,
+      "entrytype": 1
+    },
+    {
+      "id": 4832,
+      "name": "Embrithite",
+      "synid": 738,
+      "entrytype": 1
+    },
+    {
+      "id": 4833,
+      "name": "Plumbostib",
+      "synid": 738,
+      "entrytype": 1
+    },
+    {
+      "id": 4834,
+      "name": "Plumbostibit",
+      "synid": 738,
+      "entrytype": 1
+    },
+    {
+      "id": 4835,
+      "name": "Epiboulangerite",
+      "synid": 738,
+      "entrytype": 1
+    },
+    {
+      "id": 4836,
+      "name": "Mullanite",
+      "synid": 738,
+      "entrytype": 1
+    },
+    {
+      "id": 4838,
+      "name": "Plumites",
+      "synid": 738,
+      "entrytype": 1
+    },
+    {
+      "id": 4839,
+      "name": "Bolidenite",
+      "synid": 738,
+      "entrytype": 1
+    },
+    {
+      "id": 4840,
+      "name": "Yenerite",
+      "synid": 738,
+      "entrytype": 1
+    },
+    {
+      "id": 4841,
+      "name": "Antimonkupferbleiblende",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4842,
+      "name": "Antimonkupferglanz",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4843,
+      "name": "Bournonite (of Jameson)",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4844,
+      "name": "Endellione",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4845,
+      "name": "Endellionite",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4846,
+      "name": "Cog Wheel Ore",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4847,
+      "name": "Wheel Ore",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4848,
+      "name": "Tripelglanz",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4849,
+      "name": "Antimonial Copper Glance",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4850,
+      "name": "Antimonial Lead Ore",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4851,
+      "name": "Berthonite",
+      "synid": 741,
+      "entrytype": 1
+    },
+    {
+      "id": 4852,
+      "name": "Nephrite (of Bowen)",
+      "synid": 744,
+      "entrytype": 1
+    },
+    {
+      "id": 4853,
+      "name": "Sulrhodite",
+      "synid": 745,
+      "entrytype": 1
+    },
+    {
+      "id": 4854,
+      "name": "Lingaitukuang",
+      "synid": 747,
+      "entrytype": 1
+    },
+    {
+      "id": 4855,
+      "name": "Sodium-Illite",
+      "synid": 816,
+      "entrytype": 1
+    },
+    {
+      "id": 4856,
+      "name": "Braunite (of Haidinger)",
+      "synid": 757,
+      "entrytype": 1
+    },
+    {
+      "id": 4857,
+      "name": "Hartbraunstein",
+      "synid": 757,
+      "entrytype": 1
+    },
+    {
+      "id": 4858,
+      "name": "Heteroclin",
+      "synid": 757,
+      "entrytype": 1
+    },
+    {
+      "id": 4859,
+      "name": "Pesillite",
+      "synid": 757,
+      "entrytype": 1
+    },
+    {
+      "id": 4861,
+      "name": "Sarospatakite",
+      "synid": 758,
+      "entrytype": 1
+    },
+    {
+      "id": 4862,
+      "name": "Sarospatite",
+      "synid": 758,
+      "entrytype": 1
+    },
+    {
+      "id": 4863,
+      "name": "Brazilianite (of Pough and Henderson)",
+      "synid": 760,
+      "entrytype": 1
+    },
+    {
+      "id": 4864,
+      "name": "Briethauptite (of Fröbel)",
+      "synid": 763,
+      "entrytype": 1
+    },
+    {
+      "id": 4865,
+      "name": "Antimonnickel (of Stromeyer)",
+      "synid": 763,
+      "entrytype": 1
+    },
+    {
+      "id": 4866,
+      "name": "Walmstedtite",
+      "synid": 765,
+      "entrytype": 1
+    },
+    {
+      "id": 4867,
+      "name": "Hallite (of Lévy)",
+      "synid": 765,
+      "entrytype": 1
+    },
+    {
+      "id": 4868,
+      "name": "Diagonite",
+      "synid": 766,
+      "entrytype": 1
+    },
+    {
+      "id": 4869,
+      "name": "Brewsterline",
+      "synid": 767,
+      "entrytype": 1
+    },
+    {
+      "id": 4870,
+      "name": "Brezianit",
+      "synid": 768,
+      "entrytype": 1
+    },
+    {
+      "id": 4871,
+      "name": "Nimesite",
+      "synid": 774,
+      "entrytype": 1
+    },
+    {
+      "id": 4872,
+      "name": "Ce-Britholite",
+      "synid": 775,
+      "entrytype": 1
+    },
+    {
+      "id": 4873,
+      "name": "Abukumalite",
+      "synid": 776,
+      "entrytype": 1
+    },
+    {
+      "id": 4874,
+      "name": "Yttrobritholite",
+      "synid": 776,
+      "entrytype": 1
+    },
+    {
+      "id": 4875,
+      "name": "Waringtonite",
+      "synid": 779,
+      "entrytype": 1
+    },
+    {
+      "id": 4876,
+      "name": "Brogniartine (of Huot)",
+      "synid": 779,
+      "entrytype": 1
+    },
+    {
+      "id": 4877,
+      "name": "Krisuvigite",
+      "synid": 779,
+      "entrytype": 1
+    },
+    {
+      "id": 4878,
+      "name": "Königine",
+      "synid": 779,
+      "entrytype": 1
+    },
+    {
+      "id": 4879,
+      "name": "Konigite",
+      "synid": 779,
+      "entrytype": 1
+    },
+    {
+      "id": 4880,
+      "name": "Koenigine",
+      "synid": 779,
+      "entrytype": 1
+    },
+    {
+      "id": 4881,
+      "name": "Bronze-n'",
+      "synid": 785,
+      "entrytype": 1
+    },
+    {
+      "id": 4882,
+      "name": "n'-Bronze",
+      "synid": 785,
+      "entrytype": 1
+    },
+    {
+      "id": 4883,
+      "name": "Native Bronze",
+      "synid": 785,
+      "entrytype": 1
+    },
+    {
+      "id": 4884,
+      "name": "Jurinite",
+      "synid": 787,
+      "entrytype": 1
+    },
+    {
+      "id": 4885,
+      "name": "Brosite",
+      "synid": 788,
+      "entrytype": 1
+    },
+    {
+      "id": 4886,
+      "name": "Thorandite",
+      "synid": 788,
+      "entrytype": 1
+    },
+    {
+      "id": 4887,
+      "name": "Siderocalcite",
+      "synid": 788,
+      "entrytype": 1
+    },
+    {
+      "id": 4888,
+      "name": "Normal-ankerite",
+      "synid": 788,
+      "entrytype": 1
+    },
+    {
+      "id": 4889,
+      "name": "Normal Parankerite",
+      "synid": 11125,
+      "entrytype": 1
+    },
+    {
+      "id": 4890,
+      "name": "Thoruranin",
+      "synid": 770,
+      "entrytype": 1
+    },
+    {
+      "id": 4891,
+      "name": "Thor-uraninite",
+      "synid": 770,
+      "entrytype": 1
+    },
+    {
+      "id": 4892,
+      "name": "Bystroemite",
+      "synid": 814,
+      "entrytype": 1
+    },
+    {
+      "id": 4893,
+      "name": "Buetschliite",
+      "synid": 821,
+      "entrytype": 1
+    },
+    {
+      "id": 4894,
+      "name": "Gel-Calcit",
+      "synid": 821,
+      "entrytype": 1
+    },
+    {
+      "id": 4895,
+      "name": "Cacoxeno",
+      "synid": 840,
+      "entrytype": 1
+    },
+    {
+      "id": 4896,
+      "name": "Doppelspat",
+      "synid": 4900,
+      "entrytype": 1
+    },
+    {
+      "id": 4897,
+      "name": "Kalkspath",
+      "synid": 859,
+      "entrytype": 1
+    },
+    {
+      "id": 4898,
+      "name": "Calc Spar",
+      "synid": 859,
+      "entrytype": 1
+    },
+    {
+      "id": 4899,
+      "name": "Vaterite-A",
+      "synid": 859,
+      "entrytype": 1
+    },
+    {
+      "id": 4901,
+      "name": "Icelandic Spar",
+      "synid": 4900,
+      "entrytype": 1
+    },
+    {
+      "id": 4902,
+      "name": "Calderite (of Fermor)",
+      "synid": 864,
+      "entrytype": 1
+    },
+    {
+      "id": 4903,
+      "name": "Halbazurblei",
+      "synid": 865,
+      "entrytype": 1
+    },
+    {
+      "id": 4904,
+      "name": "Halbasurblei",
+      "synid": 865,
+      "entrytype": 1
+    },
+    {
+      "id": 4905,
+      "name": "White Nitrate Ore",
+      "synid": 866,
+      "entrytype": 1
+    },
+    {
+      "id": 4906,
+      "name": "Corneous Mercury",
+      "synid": 869,
+      "entrytype": 1
+    },
+    {
+      "id": 4907,
+      "name": "Horn Mercury",
+      "synid": 869,
+      "entrytype": 1
+    },
+    {
+      "id": 4908,
+      "name": "Calomelane",
+      "synid": 869,
+      "entrytype": 1
+    },
+    {
+      "id": 4909,
+      "name": "Calomelite",
+      "synid": 869,
+      "entrytype": 1
+    },
+    {
+      "id": 4910,
+      "name": "Francolite",
+      "synid": 895,
+      "entrytype": 1
+    },
+    {
+      "id": 4911,
+      "name": "Dahllite",
+      "synid": 896,
+      "entrytype": 1
+    },
+    {
+      "id": 4912,
+      "name": "Carnotite (of Friedel and Cumenge)",
+      "synid": 907,
+      "entrytype": 1
+    },
+    {
+      "id": 4913,
+      "name": "Seladonite",
+      "synid": 926,
+      "entrytype": 1
+    },
+    {
+      "id": 4914,
+      "name": "Verona Earth",
+      "synid": 926,
+      "entrytype": 1
+    },
+    {
+      "id": 4915,
+      "name": "Veronite",
+      "synid": 926,
+      "entrytype": 1
+    },
+    {
+      "id": 4916,
+      "name": "Cerianite",
+      "synid": 929,
+      "entrytype": 1
+    },
+    {
+      "id": 4917,
+      "name": "Ceriopyrochlore-(Ce) (of Hogarth 1977)",
+      "synid": 930,
+      "entrytype": 1
+    },
+    {
+      "id": 4918,
+      "name": "Cerite",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 4919,
+      "name": "Cerotungstite",
+      "synid": 7380,
+      "entrytype": 1
+    },
+    {
+      "id": 4920,
+      "name": "Acrusite",
+      "synid": 934,
+      "entrytype": 1
+    },
+    {
+      "id": 4921,
+      "name": "Cerussa",
+      "synid": 934,
+      "entrytype": 1
+    },
+    {
+      "id": 4922,
+      "name": "Cerusite",
+      "synid": 934,
+      "entrytype": 1
+    },
+    {
+      "id": 4923,
+      "name": "Cerussita",
+      "synid": 934,
+      "entrytype": 1
+    },
+    {
+      "id": 4924,
+      "name": "Lead Spar",
+      "synid": 934,
+      "entrytype": 1
+    },
+    {
+      "id": 4925,
+      "name": "Cervandonite",
+      "synid": 935,
+      "entrytype": 1
+    },
+    {
+      "id": 4926,
+      "name": "Antimonial Ochre",
+      "synid": 936,
+      "entrytype": 1
+    },
+    {
+      "id": 4927,
+      "name": "Acadialite",
+      "synid": 956,
+      "entrytype": 1
+    },
+    {
+      "id": 4928,
+      "name": "Acadiolite",
+      "synid": 956,
+      "entrytype": 1
+    },
+    {
+      "id": 4929,
+      "name": "Vitriolum cupri",
+      "synid": 959,
+      "entrytype": 1
+    },
+    {
+      "id": 4930,
+      "name": "Copper vitriol",
+      "synid": 959,
+      "entrytype": 1
+    },
+    {
+      "id": 4931,
+      "name": "Cyanose",
+      "synid": 959,
+      "entrytype": 1
+    },
+    {
+      "id": 4932,
+      "name": "Cyanosite",
+      "synid": 959,
+      "entrytype": 1
+    },
+    {
+      "id": 4933,
+      "name": "Chalkanthite",
+      "synid": 959,
+      "entrytype": 1
+    },
+    {
+      "id": 4934,
+      "name": "Chalcedononyx",
+      "synid": 960,
+      "entrytype": 1
+    },
+    {
+      "id": 4935,
+      "name": "Chalcedon",
+      "synid": 960,
+      "entrytype": 1
+    },
+    {
+      "id": 4936,
+      "name": "Chalcedonite",
+      "synid": 960,
+      "entrytype": 1
+    },
+    {
+      "id": 4937,
+      "name": "Chalcocine",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4938,
+      "name": "Chalcosine",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4939,
+      "name": "Chalcosite",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4940,
+      "name": "Chalkosin",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4941,
+      "name": "Calcosina",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4942,
+      "name": "Vitreous Copper",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4943,
+      "name": "Copper Glance",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4944,
+      "name": "Cuivre Sulfuré Spiciforme",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4945,
+      "name": "Cyprite",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4946,
+      "name": "Redruthite",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4947,
+      "name": "Cupreine",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4948,
+      "name": "Kuprein",
+      "synid": 962,
+      "entrytype": 1
+    },
+    {
+      "id": 4949,
+      "name": "Hydrocyanite",
+      "synid": 963,
+      "entrytype": 1
+    },
+    {
+      "id": 4950,
+      "name": "Idrociano",
+      "synid": 963,
+      "entrytype": 1
+    },
+    {
+      "id": 4951,
+      "name": "Hydrokyanite",
+      "synid": 963,
+      "entrytype": 1
+    },
+    {
+      "id": 4952,
+      "name": "Chalcophane",
+      "synid": 947,
+      "entrytype": 1
+    },
+    {
+      "id": 4953,
+      "name": "Copper Mica",
+      "synid": 979,
+      "entrytype": 1
+    },
+    {
+      "id": 4954,
+      "name": "Chalkophyllite",
+      "synid": 979,
+      "entrytype": 1
+    },
+    {
+      "id": 4955,
+      "name": "Erinite (of Beudant)",
+      "synid": 979,
+      "entrytype": 1
+    },
+    {
+      "id": 4956,
+      "name": "Tamarite (of Brooke and Miller)",
+      "synid": 979,
+      "entrytype": 1
+    },
+    {
+      "id": 4957,
+      "name": "Euchlore-Mica",
+      "synid": 979,
+      "entrytype": 1
+    },
+    {
+      "id": 4958,
+      "name": "Euchlorose",
+      "synid": 979,
+      "entrytype": 1
+    },
+    {
+      "id": 4960,
+      "name": "Blättriges Olivinerz",
+      "synid": 979,
+      "entrytype": 1
+    },
+    {
+      "id": 4961,
+      "name": "Chalkopyrite",
+      "synid": 955,
+      "entrytype": 1
+    },
+    {
+      "id": 4962,
+      "name": "Copper Pyrites",
+      "synid": 955,
+      "entrytype": 1
+    },
+    {
+      "id": 4963,
+      "name": "Yellow Copper",
+      "synid": 955,
+      "entrytype": 1
+    },
+    {
+      "id": 4964,
+      "name": "Cupropyrite",
+      "synid": 955,
+      "entrytype": 1
+    },
+    {
+      "id": 4965,
+      "name": "Calcopirita",
+      "synid": 955,
+      "entrytype": 1
+    },
+    {
+      "id": 4966,
+      "name": "Towanite",
+      "synid": 955,
+      "entrytype": 1
+    },
+    {
+      "id": 4967,
+      "name": "Gelbkupfererz",
+      "synid": 955,
+      "entrytype": 1
+    },
+    {
+      "id": 4968,
+      "name": "Gelferz",
+      "synid": 955,
+      "entrytype": 1
+    },
+    {
+      "id": 4969,
+      "name": "Chalkosiderit",
+      "synid": 945,
+      "entrytype": 1
+    },
+    {
+      "id": 4970,
+      "name": "Antimonial Copper",
+      "synid": 983,
+      "entrytype": 1
+    },
+    {
+      "id": 4971,
+      "name": "Kupfer-Antimonglanz",
+      "synid": 983,
+      "entrytype": 1
+    },
+    {
+      "id": 4972,
+      "name": "Wolfsbergite (of Nicol)",
+      "synid": 983,
+      "entrytype": 1
+    },
+    {
+      "id": 4973,
+      "name": "Guejarite",
+      "synid": 983,
+      "entrytype": 1
+    },
+    {
+      "id": 4974,
+      "name": "Rosite (of Huot)",
+      "synid": 983,
+      "entrytype": 1
+    },
+    {
+      "id": 4975,
+      "name": "Capillary Red Oxide of Copper",
+      "synid": 977,
+      "entrytype": 1
+    },
+    {
+      "id": 4976,
+      "name": "Tschevkinit",
+      "synid": 999,
+      "entrytype": 1
+    },
+    {
+      "id": 4977,
+      "name": "Tschewkinite",
+      "synid": 999,
+      "entrytype": 1
+    },
+    {
+      "id": 4978,
+      "name": "Cross-stone",
+      "synid": 1001,
+      "entrytype": 1
+    },
+    {
+      "id": 4979,
+      "name": "Lapis Crucifer",
+      "synid": 1001,
+      "entrytype": 1
+    },
+    {
+      "id": 4980,
+      "name": "Maltesite",
+      "synid": 1001,
+      "entrytype": 1
+    },
+    {
+      "id": 4981,
+      "name": "Cloanthite",
+      "synid": 1009,
+      "entrytype": 1
+    },
+    {
+      "id": 4982,
+      "name": "Rammelsbergite (of Haidinger)",
+      "synid": 1009,
+      "entrytype": 1
+    },
+    {
+      "id": 4984,
+      "name": "Chloralluminio",
+      "synid": 1012,
+      "entrytype": 1
+    },
+    {
+      "id": 4985,
+      "name": "Chloralluminite",
+      "synid": 1012,
+      "entrytype": 1
+    },
+    {
+      "id": 4986,
+      "name": "Cerargyrite",
+      "synid": 1014,
+      "entrytype": 1
+    },
+    {
+      "id": 4987,
+      "name": "Kerat",
+      "synid": 1014,
+      "entrytype": 1
+    },
+    {
+      "id": 4988,
+      "name": "Argyroceratite",
+      "synid": 1014,
+      "entrytype": 1
+    },
+    {
+      "id": 4989,
+      "name": "Ostwaldite",
+      "synid": 1014,
+      "entrytype": 1
+    },
+    {
+      "id": 4990,
+      "name": "Barytophyllite",
+      "synid": 1017,
+      "entrytype": 1
+    },
+    {
+      "id": 4991,
+      "name": "Bliabergite",
+      "synid": 1017,
+      "entrytype": 1
+    },
+    {
+      "id": 4992,
+      "name": "Bliabergsite",
+      "synid": 1017,
+      "entrytype": 1
+    },
+    {
+      "id": 4993,
+      "name": "Sismondine",
+      "synid": 1017,
+      "entrytype": 1
+    },
+    {
+      "id": 4994,
+      "name": "Sismondite",
+      "synid": 1017,
+      "entrytype": 1
+    },
+    {
+      "id": 4995,
+      "name": "Strüverite (of Brezina)",
+      "synid": 1017,
+      "entrytype": 1
+    },
+    {
+      "id": 4997,
+      "name": "Chlorite spar",
+      "synid": 1017,
+      "entrytype": 1
+    },
+    {
+      "id": 4998,
+      "name": "Chloritspat",
+      "synid": 1017,
+      "entrytype": 1
+    },
+    {
+      "id": 4999,
+      "name": "Chloritoidite",
+      "synid": 1017,
+      "entrytype": 1
+    },
+    {
+      "id": 5000,
+      "name": "Chlormankalite",
+      "synid": 1019,
+      "entrytype": 1
+    },
+    {
+      "id": 5001,
+      "name": "Chloromanganokalite",
+      "synid": 1019,
+      "entrytype": 1
+    },
+    {
+      "id": 5002,
+      "name": "Cloromanganocalite",
+      "synid": 1019,
+      "entrytype": 1
+    },
+    {
+      "id": 5003,
+      "name": "Bäumlerite",
+      "synid": 1020,
+      "entrytype": 1
+    },
+    {
+      "id": 5004,
+      "name": "Baeumlerite",
+      "synid": 1020,
+      "entrytype": 1
+    },
+    {
+      "id": 5005,
+      "name": "Clorocalcite",
+      "synid": 1020,
+      "entrytype": 1
+    },
+    {
+      "id": 5006,
+      "name": "Cloromagnesite",
+      "synid": 1022,
+      "entrytype": 1
+    },
+    {
+      "id": 5007,
+      "name": "Chloro-ziphite",
+      "synid": 953,
+      "entrytype": 1
+    },
+    {
+      "id": 5008,
+      "name": "Schokoladenstein",
+      "synid": 1024,
+      "entrytype": 1
+    },
+    {
+      "id": 5009,
+      "name": "Condrodite",
+      "synid": 1027,
+      "entrytype": 1
+    },
+    {
+      "id": 5010,
+      "name": "Brocchite",
+      "synid": 1027,
+      "entrytype": 1
+    },
+    {
+      "id": 5011,
+      "name": "Brucite (of Gibbs)",
+      "synid": 1027,
+      "entrytype": 1
+    },
+    {
+      "id": 5013,
+      "name": "Prolectite",
+      "synid": 1027,
+      "entrytype": 1
+    },
+    {
+      "id": 5014,
+      "name": "Eisenchrom",
+      "synid": 1036,
+      "entrytype": 1
+    },
+    {
+      "id": 5015,
+      "name": "Siderochrome",
+      "synid": 1036,
+      "entrytype": 1
+    },
+    {
+      "id": 5016,
+      "name": "Chromoferrite",
+      "synid": 1036,
+      "entrytype": 1
+    },
+    {
+      "id": 5017,
+      "name": "Ferrochromite",
+      "synid": 1036,
+      "entrytype": 1
+    },
+    {
+      "id": 5018,
+      "name": "Halotrichit (of Hausmann)",
+      "synid": 162,
+      "entrytype": 1
+    },
+    {
+      "id": 5019,
+      "name": "Crisoberilo",
+      "synid": 1039,
+      "entrytype": 1
+    },
+    {
+      "id": 5020,
+      "name": "Crisocola",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5021,
+      "name": "Kieselkupfer",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5022,
+      "name": "Kieselmalachit",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5023,
+      "name": "Somervillite (of Dufrénoy)",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5025,
+      "name": "Beaumontite (of Jackson)",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5026,
+      "name": "Chalcostaktite",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5027,
+      "name": "Chalkostaktite",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5028,
+      "name": "Liparite (of Casoria)",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5029,
+      "name": "Pechkupfer (of Hausmann)",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5030,
+      "name": "Chrysocollite",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5031,
+      "name": "Demidovite",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5032,
+      "name": "Chrysokolla",
+      "synid": 1040,
+      "entrytype": 1
+    },
+    {
+      "id": 5036,
+      "name": "Federalaun",
+      "synid": 5554,
+      "entrytype": 1
+    },
+    {
+      "id": 5037,
+      "name": "Lefkasbestos",
+      "synid": 975,
+      "entrytype": 1
+    },
+    {
+      "id": 5038,
+      "name": "Karystiolite",
+      "synid": 975,
+      "entrytype": 1
+    },
+    {
+      "id": 5039,
+      "name": "α-Chrysotile",
+      "synid": 975,
+      "entrytype": 1
+    },
+    {
+      "id": 5040,
+      "name": "Churchite",
+      "synid": 1047,
+      "entrytype": 1
+    },
+    {
+      "id": 5041,
+      "name": "Weinschenkite (of Laubmann)",
+      "synid": 1047,
+      "entrytype": 1
+    },
+    {
+      "id": 5042,
+      "name": "Rogersite (of Smith)",
+      "synid": 1047,
+      "entrytype": 1
+    },
+    {
+      "id": 5043,
+      "name": "Cinnabarite (of Dana)",
+      "synid": 1052,
+      "entrytype": 1
+    },
+    {
+      "id": 5044,
+      "name": "Zinnober",
+      "synid": 1052,
+      "entrytype": 1
+    },
+    {
+      "id": 5045,
+      "name": "Merkurblende",
+      "synid": 1052,
+      "entrytype": 1
+    },
+    {
+      "id": 5046,
+      "name": "Minium (of Pliny)",
+      "synid": 1052,
+      "entrytype": 1
+    },
+    {
+      "id": 5047,
+      "name": "Cinabrio",
+      "synid": 1052,
+      "entrytype": 1
+    },
+    {
+      "id": 5048,
+      "name": "Kirrolith",
+      "synid": 1053,
+      "entrytype": 1
+    },
+    {
+      "id": 5049,
+      "name": "Rhombarsenite",
+      "synid": 1060,
+      "entrytype": 1
+    },
+    {
+      "id": 5050,
+      "name": "Arsenphyllite",
+      "synid": 1060,
+      "entrytype": 1
+    },
+    {
+      "id": 5051,
+      "name": "Clausthalie",
+      "synid": 1061,
+      "entrytype": 1
+    },
+    {
+      "id": 5052,
+      "name": "Selenbleiglanz",
+      "synid": 1061,
+      "entrytype": 1
+    },
+    {
+      "id": 5053,
+      "name": "Selenblei",
+      "synid": 1061,
+      "entrytype": 1
+    },
+    {
+      "id": 5054,
+      "name": "Grastite",
+      "synid": 1070,
+      "entrytype": 1
+    },
+    {
+      "id": 5055,
+      "name": "Clinochlorite",
+      "synid": 1070,
+      "entrytype": 1
+    },
+    {
+      "id": 5056,
+      "name": "Klinochlor",
+      "synid": 1070,
+      "entrytype": 1
+    },
+    {
+      "id": 5057,
+      "name": "Klinochrysotil",
+      "synid": 1071,
+      "entrytype": 1
+    },
+    {
+      "id": 5058,
+      "name": "Abichite",
+      "synid": 1055,
+      "entrytype": 1
+    },
+    {
+      "id": 5059,
+      "name": "Aphanèse",
+      "synid": 1055,
+      "entrytype": 1
+    },
+    {
+      "id": 5060,
+      "name": "Aphanesite",
+      "synid": 1055,
+      "entrytype": 1
+    },
+    {
+      "id": 5061,
+      "name": "Clinoclasite",
+      "synid": 1055,
+      "entrytype": 1
+    },
+    {
+      "id": 5062,
+      "name": "Clinoclase (of Breithaupt)",
+      "synid": 1055,
+      "entrytype": 1
+    },
+    {
+      "id": 5063,
+      "name": "Ignatiewite",
+      "synid": 161,
+      "entrytype": 1
+    },
+    {
+      "id": 5064,
+      "name": "Siderochalcite",
+      "synid": 1055,
+      "entrytype": 1
+    },
+    {
+      "id": 5065,
+      "name": "Strahlenkupfer",
+      "synid": 1055,
+      "entrytype": 1
+    },
+    {
+      "id": 5066,
+      "name": "Klinoenstatit",
+      "synid": 1072,
+      "entrytype": 1
+    },
+    {
+      "id": 5067,
+      "name": "Klinoenstenit",
+      "synid": 1072,
+      "entrytype": 1
+    },
+    {
+      "id": 5068,
+      "name": "Klinoferrosilit",
+      "synid": 1073,
+      "entrytype": 1
+    },
+    {
+      "id": 5069,
+      "name": "Klinoguarinit",
+      "synid": 1074,
+      "entrytype": 1
+    },
+    {
+      "id": 5070,
+      "name": "Klinohumit",
+      "synid": 1077,
+      "entrytype": 1
+    },
+    {
+      "id": 5071,
+      "name": "Klinoptilolith",
+      "synid": 1082,
+      "entrytype": 1
+    },
+    {
+      "id": 5072,
+      "name": "Aluminium-Epidote",
+      "synid": 1087,
+      "entrytype": 1
+    },
+    {
+      "id": 5073,
+      "name": "Clinoepidote",
+      "synid": 1087,
+      "entrytype": 1
+    },
+    {
+      "id": 5074,
+      "name": "Brandisite",
+      "synid": 1088,
+      "entrytype": 1
+    },
+    {
+      "id": 5075,
+      "name": "Bronzite (of Finch)",
+      "synid": 1088,
+      "entrytype": 1
+    },
+    {
+      "id": 5076,
+      "name": "Chrysophane",
+      "synid": 1088,
+      "entrytype": 1
+    },
+    {
+      "id": 5077,
+      "name": "Holmesite",
+      "synid": 1088,
+      "entrytype": 1
+    },
+    {
+      "id": 5078,
+      "name": "Holmite (of Thompson)",
+      "synid": 1088,
+      "entrytype": 1
+    },
+    {
+      "id": 5079,
+      "name": "Seybertite",
+      "synid": 1088,
+      "entrytype": 1
+    },
+    {
+      "id": 5081,
+      "name": "Xanthophyllite",
+      "synid": 1088,
+      "entrytype": 1
+    },
+    {
+      "id": 5082,
+      "name": "Cobaltodolomite",
+      "synid": 1105,
+      "entrytype": 1
+    },
+    {
+      "id": 5083,
+      "name": "Cobaltidolomite",
+      "synid": 1105,
+      "entrytype": 1
+    },
+    {
+      "id": 5084,
+      "name": "Glanzkobold",
+      "synid": 1093,
+      "entrytype": 1
+    },
+    {
+      "id": 5085,
+      "name": "Cobaltine",
+      "synid": 1093,
+      "entrytype": 1
+    },
+    {
+      "id": 5086,
+      "name": "Bright white cobalt",
+      "synid": 1093,
+      "entrytype": 1
+    },
+    {
+      "id": 5087,
+      "name": "Cobaltismithsonite",
+      "synid": 1089,
+      "entrytype": 1
+    },
+    {
+      "id": 5088,
+      "name": "Cobaltosmithsonite",
+      "synid": 1089,
+      "entrytype": 1
+    },
+    {
+      "id": 5089,
+      "name": "Iodic Quicksilver",
+      "synid": 1100,
+      "entrytype": 1
+    },
+    {
+      "id": 5090,
+      "name": "Neocolemanite",
+      "synid": 1108,
+      "entrytype": 1
+    },
+    {
+      "id": 5091,
+      "name": "Columbeisen",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5092,
+      "name": "Baierine",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5093,
+      "name": "Baierite",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5094,
+      "name": "Dianite (of von Kobell)",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5095,
+      "name": "Mengite (of Rose)",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5096,
+      "name": "Ilmenite (of Brooke)",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5097,
+      "name": "Hermannolite",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5098,
+      "name": "Greenlandite (of Breithaupt)",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5099,
+      "name": "Ferro-Ilmenite",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5100,
+      "name": "Niobite",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5101,
+      "name": "Torrelite (of Thompson)",
+      "synid": 1112,
+      "entrytype": 1
+    },
+    {
+      "id": 5102,
+      "name": "Footeite",
+      "synid": 1120,
+      "entrytype": 1
+    },
+    {
+      "id": 5103,
+      "name": "Tallingite",
+      "synid": 1120,
+      "entrytype": 1
+    },
+    {
+      "id": 5104,
+      "name": "Cookeite (of Brush)",
+      "synid": 1121,
+      "entrytype": 1
+    },
+    {
+      "id": 5105,
+      "name": "Cooperite (of Wartenweiler)",
+      "synid": 1123,
+      "entrytype": 1
+    },
+    {
+      "id": 5106,
+      "name": "Eläite",
+      "synid": 1124,
+      "entrytype": 1
+    },
+    {
+      "id": 5107,
+      "name": "Elaeite",
+      "synid": 1124,
+      "entrytype": 1
+    },
+    {
+      "id": 5108,
+      "name": "Gelbeisenerz (of Breithaupt)",
+      "synid": 1124,
+      "entrytype": 1
+    },
+    {
+      "id": 5109,
+      "name": "Flaveite",
+      "synid": 1124,
+      "entrytype": 1
+    },
+    {
+      "id": 5110,
+      "name": "Niveite",
+      "synid": 1124,
+      "entrytype": 1
+    },
+    {
+      "id": 5111,
+      "name": "Misleyite",
+      "synid": 1124,
+      "entrytype": 1
+    },
+    {
+      "id": 5112,
+      "name": "Janosite",
+      "synid": 1124,
+      "entrytype": 1
+    },
+    {
+      "id": 5113,
+      "name": "Pseudo-copiapite",
+      "synid": 1124,
+      "entrytype": 1
+    },
+    {
+      "id": 5114,
+      "name": "Xanthosiderit (of Glocker)",
+      "synid": 1124,
+      "entrytype": 1
+    },
+    {
+      "id": 5115,
+      "name": "Ferrocopiapite",
+      "synid": 1490,
+      "entrytype": 1
+    },
+    {
+      "id": 5116,
+      "name": "Venus",
+      "synid": 1209,
+      "entrytype": 1
+    },
+    {
+      "id": 5117,
+      "name": "Copper",
+      "synid": 1209,
+      "entrytype": 1
+    },
+    {
+      "id": 5118,
+      "name": "Aes Cyprium",
+      "synid": 1209,
+      "entrytype": 1
+    },
+    {
+      "id": 5120,
+      "name": "Jolite",
+      "synid": 1128,
+      "entrytype": 1
+    },
+    {
+      "id": 5121,
+      "name": "Dichroite",
+      "synid": 1128,
+      "entrytype": 1
+    },
+    {
+      "id": 5122,
+      "name": "Lazulith (of von Schlotheim)",
+      "synid": 1128,
+      "entrytype": 1
+    },
+    {
+      "id": 5123,
+      "name": "Peliom",
+      "synid": 1128,
+      "entrytype": 1
+    },
+    {
+      "id": 5124,
+      "name": "Luchsapphir",
+      "synid": 1128,
+      "entrytype": 1
+    },
+    {
+      "id": 5126,
+      "name": "Water Sapphire",
+      "synid": 1128,
+      "entrytype": 1
+    },
+    {
+      "id": 5127,
+      "name": "Steinheilite",
+      "synid": 1128,
+      "entrytype": 1
+    },
+    {
+      "id": 5128,
+      "name": "Hard Fahlunite",
+      "synid": 1128,
+      "entrytype": 1
+    },
+    {
+      "id": 5129,
+      "name": "Sal catharticum",
+      "synid": 1393,
+      "entrytype": 1
+    },
+    {
+      "id": 5131,
+      "name": "Dernbachite",
+      "synid": 1130,
+      "entrytype": 1
+    },
+    {
+      "id": 5132,
+      "name": "Erinite (of Haidinger)",
+      "synid": 1133,
+      "entrytype": 1
+    },
+    {
+      "id": 5133,
+      "name": "Corundophyllite",
+      "synid": 1137,
+      "entrytype": 1
+    },
+    {
+      "id": 5134,
+      "name": "Corivendum",
+      "synid": 1136,
+      "entrytype": 1
+    },
+    {
+      "id": 5136,
+      "name": "Corindon",
+      "synid": 1136,
+      "entrytype": 1
+    },
+    {
+      "id": 5137,
+      "name": "Harmophane",
+      "synid": 1136,
+      "entrytype": 1
+    },
+    {
+      "id": 5139,
+      "name": "White Sapphire",
+      "synid": 1136,
+      "entrytype": 1
+    },
+    {
+      "id": 5140,
+      "name": "Soimontite",
+      "synid": 1136,
+      "entrytype": 1
+    },
+    {
+      "id": 5141,
+      "name": "Corundumite",
+      "synid": 1136,
+      "entrytype": 1
+    },
+    {
+      "id": 5142,
+      "name": "a-Corundum",
+      "synid": 1136,
+      "entrytype": 1
+    },
+    {
+      "id": 5143,
+      "name": "α-Alumina",
+      "synid": 1136,
+      "entrytype": 1
+    },
+    {
+      "id": 5144,
+      "name": "Bjelkite",
+      "synid": 1139,
+      "entrytype": 1
+    },
+    {
+      "id": 5145,
+      "name": "Retzbanyite (of Hermann)",
+      "synid": 1139,
+      "entrytype": 1
+    },
+    {
+      "id": 5146,
+      "name": "Rezbanyite (of Hermann)",
+      "synid": 1139,
+      "entrytype": 1
+    },
+    {
+      "id": 5147,
+      "name": "Federalaun vom Freyenwalde",
+      "synid": 1809,
+      "entrytype": 1
+    },
+    {
+      "id": 5148,
+      "name": "Covelline",
+      "synid": 1144,
+      "entrytype": 1
+    },
+    {
+      "id": 5149,
+      "name": "Covellinite",
+      "synid": 1144,
+      "entrytype": 1
+    },
+    {
+      "id": 5150,
+      "name": "Blue Copper",
+      "synid": 1144,
+      "entrytype": 1
+    },
+    {
+      "id": 5151,
+      "name": "Indigo Copper",
+      "synid": 1144,
+      "entrytype": 1
+    },
+    {
+      "id": 5152,
+      "name": "Kupferindig",
+      "synid": 1144,
+      "entrytype": 1
+    },
+    {
+      "id": 5153,
+      "name": "Breithauptite (of Chapman)",
+      "synid": 1144,
+      "entrytype": 1
+    },
+    {
+      "id": 5154,
+      "name": "Pseudowavellite",
+      "synid": 1147,
+      "entrytype": 1
+    },
+    {
+      "id": 5155,
+      "name": "Calcio-wavellite",
+      "synid": 1147,
+      "entrytype": 1
+    },
+    {
+      "id": 5156,
+      "name": "Lime-wavellite",
+      "synid": 1147,
+      "entrytype": 1
+    },
+    {
+      "id": 5157,
+      "name": "Kalkwavellit",
+      "synid": 1147,
+      "entrytype": 1
+    },
+    {
+      "id": 5158,
+      "name": "Belyankite",
+      "synid": 1151,
+      "entrytype": 1
+    },
+    {
+      "id": 5159,
+      "name": "Belijankit",
+      "synid": 1151,
+      "entrytype": 1
+    },
+    {
+      "id": 5160,
+      "name": "α-Cristobalite",
+      "synid": 1155,
+      "entrytype": 1
+    },
+    {
+      "id": 5163,
+      "name": "Lussatine",
+      "synid": 1155,
+      "entrytype": 1
+    },
+    {
+      "id": 5164,
+      "name": "Low-Cristobalite",
+      "synid": 1155,
+      "entrytype": 1
+    },
+    {
+      "id": 5165,
+      "name": "Beresofite (of Shepard)",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5166,
+      "name": "Beresowite (of Shepard)",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5167,
+      "name": "Callochrome",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5168,
+      "name": "Kallochrom",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5169,
+      "name": "Chrombleispath",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5170,
+      "name": "Crocoise",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5171,
+      "name": "Crocoisite",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5172,
+      "name": "Krokoit",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5173,
+      "name": "Lehmannite (of Brooke)",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5174,
+      "name": "Red lead ore",
+      "synid": 1157,
+      "entrytype": 1
+    },
+    {
+      "id": 5175,
+      "name": "Chloro-melane",
+      "synid": 1158,
+      "entrytype": 1
+    },
+    {
+      "id": 5176,
+      "name": "Melanglimmer",
+      "synid": 1158,
+      "entrytype": 1
+    },
+    {
+      "id": 5177,
+      "name": "Sideroschisolite",
+      "synid": 1158,
+      "entrytype": 1
+    },
+    {
+      "id": 5178,
+      "name": "Cronstedite",
+      "synid": 1158,
+      "entrytype": 1
+    },
+    {
+      "id": 5179,
+      "name": "Chalmersite",
+      "synid": 1168,
+      "entrytype": 1
+    },
+    {
+      "id": 5180,
+      "name": "Barracanite",
+      "synid": 1168,
+      "entrytype": 1
+    },
+    {
+      "id": 5181,
+      "name": "Cupropyrite (of Schneider)",
+      "synid": 1168,
+      "entrytype": 1
+    },
+    {
+      "id": 5182,
+      "name": "Cumengite (of Groth)",
+      "synid": 6894,
+      "entrytype": 1
+    },
+    {
+      "id": 5183,
+      "name": "Amphibole-anthophyllite",
+      "synid": 1170,
+      "entrytype": 1
+    },
+    {
+      "id": 5184,
+      "name": "Antholite",
+      "synid": 1170,
+      "entrytype": 1
+    },
+    {
+      "id": 5186,
+      "name": "Ruberite",
+      "synid": 1172,
+      "entrytype": 1
+    },
+    {
+      "id": 5187,
+      "name": "Kupferglas",
+      "synid": 1172,
+      "entrytype": 1
+    },
+    {
+      "id": 5188,
+      "name": "Rothkupferez",
+      "synid": 1172,
+      "entrytype": 1
+    },
+    {
+      "id": 5189,
+      "name": "Egyptian Blue",
+      "synid": 1189,
+      "entrytype": 1
+    },
+    {
+      "id": 5190,
+      "name": "Cyanochrome",
+      "synid": 1200,
+      "entrytype": 1
+    },
+    {
+      "id": 5191,
+      "name": "Cianochroma",
+      "synid": 1200,
+      "entrytype": 1
+    },
+    {
+      "id": 5192,
+      "name": "Sammeterz",
+      "synid": 1203,
+      "entrytype": 1
+    },
+    {
+      "id": 5193,
+      "name": "Velvet Copper Ore",
+      "synid": 1203,
+      "entrytype": 1
+    },
+    {
+      "id": 5194,
+      "name": "Lettsomite",
+      "synid": 1203,
+      "entrytype": 1
+    },
+    {
+      "id": 5195,
+      "name": "Kyanotrichite",
+      "synid": 1203,
+      "entrytype": 1
+    },
+    {
+      "id": 5196,
+      "name": "Avelinoite",
+      "synid": 1206,
+      "entrytype": 1
+    },
+    {
+      "id": 5197,
+      "name": "D'Achiardit",
+      "synid": 1212,
+      "entrytype": 1
+    },
+    {
+      "id": 5198,
+      "name": "Achiardite",
+      "synid": 1212,
+      "entrytype": 1
+    },
+    {
+      "id": 5199,
+      "name": "Zeolite Mimetica",
+      "synid": 1212,
+      "entrytype": 1
+    },
+    {
+      "id": 5200,
+      "name": "Absbeferrite",
+      "synid": 7167,
+      "entrytype": 1
+    },
+    {
+      "id": 5201,
+      "name": "Hillangsite",
+      "synid": 52566,
+      "entrytype": 1
+    },
+    {
+      "id": 5203,
+      "name": "Daubreite",
+      "synid": 1229,
+      "entrytype": 1
+    },
+    {
+      "id": 5204,
+      "name": "Daubrelite",
+      "synid": 1230,
+      "entrytype": 1
+    },
+    {
+      "id": 5205,
+      "name": "Ufertite",
+      "synid": 1232,
+      "entrytype": 1
+    },
+    {
+      "id": 5206,
+      "name": "Aräoxen",
+      "synid": 1243,
+      "entrytype": 1
+    },
+    {
+      "id": 5207,
+      "name": "Araeoxen",
+      "synid": 1243,
+      "entrytype": 1
+    },
+    {
+      "id": 5208,
+      "name": "Degervite",
+      "synid": 1247,
+      "entrytype": 1
+    },
+    {
+      "id": 5209,
+      "name": "Delanouite",
+      "synid": 1249,
+      "entrytype": 1
+    },
+    {
+      "id": 5210,
+      "name": "Chlorite Ferrugineuse",
+      "synid": 1250,
+      "entrytype": 1
+    },
+    {
+      "id": 5211,
+      "name": "Delvauxit",
+      "synid": 1257,
+      "entrytype": 1
+    },
+    {
+      "id": 5212,
+      "name": "Delvauxit (of Hauer)",
+      "synid": 1257,
+      "entrytype": 1
+    },
+    {
+      "id": 5213,
+      "name": "Delvauxite (of Dumont)",
+      "synid": 1257,
+      "entrytype": 1
+    },
+    {
+      "id": 5214,
+      "name": "Herrengrundite",
+      "synid": 1270,
+      "entrytype": 1
+    },
+    {
+      "id": 5215,
+      "name": "Lyellite",
+      "synid": 1270,
+      "entrytype": 1
+    },
+    {
+      "id": 5216,
+      "name": "Devillite",
+      "synid": 1270,
+      "entrytype": 1
+    },
+    {
+      "id": 5217,
+      "name": "Urvölgyite",
+      "synid": 1270,
+      "entrytype": 1
+    },
+    {
+      "id": 5220,
+      "name": "Stasite",
+      "synid": 1273,
+      "entrytype": 1
+    },
+    {
+      "id": 5221,
+      "name": "Diabantachronnyn",
+      "synid": 1275,
+      "entrytype": 1
+    },
+    {
+      "id": 5224,
+      "name": "Ademant",
+      "synid": 1282,
+      "entrytype": 1
+    },
+    {
+      "id": 5225,
+      "name": "Diaphorite (of Zepharovich)",
+      "synid": 1284,
+      "entrytype": 1
+    },
+    {
+      "id": 5226,
+      "name": "Ultrabasite (of Rosický and Štěrba-Böhm)",
+      "synid": 1284,
+      "entrytype": 1
+    },
+    {
+      "id": 5227,
+      "name": "Empholite",
+      "synid": 1285,
+      "entrytype": 1
+    },
+    {
+      "id": 5229,
+      "name": "Diasporogelite",
+      "synid": 1285,
+      "entrytype": 1
+    },
+    {
+      "id": 5230,
+      "name": "Kayserite",
+      "synid": 1285,
+      "entrytype": 1
+    },
+    {
+      "id": 5231,
+      "name": "Tanatarite",
+      "synid": 1285,
+      "entrytype": 1
+    },
+    {
+      "id": 5232,
+      "name": "Iodchromate",
+      "synid": 1290,
+      "entrytype": 1
+    },
+    {
+      "id": 5233,
+      "name": "α-Chalcocite",
+      "synid": 1291,
+      "entrytype": 1
+    },
+    {
+      "id": 5234,
+      "name": "Blue Chalcocite",
+      "synid": 1291,
+      "entrytype": 1
+    },
+    {
+      "id": 5235,
+      "name": "Isometric Chalcocite",
+      "synid": 1291,
+      "entrytype": 1
+    },
+    {
+      "id": 5236,
+      "name": "Neodigenite",
+      "synid": 1291,
+      "entrytype": 1
+    },
+    {
+      "id": 5237,
+      "name": "Dimorphine",
+      "synid": 1292,
+      "entrytype": 1
+    },
+    {
+      "id": 5238,
+      "name": "Dekalbite",
+      "synid": 1294,
+      "entrytype": 1
+    },
+    {
+      "id": 5239,
+      "name": "Malacolite",
+      "synid": 1294,
+      "entrytype": 1
+    },
+    {
+      "id": 5240,
+      "name": "Mussite (of Bonvoisin)",
+      "synid": 1294,
+      "entrytype": 1
+    },
+    {
+      "id": 5241,
+      "name": "Alalite",
+      "synid": 1294,
+      "entrytype": 1
+    },
+    {
+      "id": 5242,
+      "name": "Achirite",
+      "synid": 1295,
+      "entrytype": 1
+    },
+    {
+      "id": 5243,
+      "name": "Achrite",
+      "synid": 1295,
+      "entrytype": 1
+    },
+    {
+      "id": 5244,
+      "name": "Emeraudine",
+      "synid": 1295,
+      "entrytype": 1
+    },
+    {
+      "id": 5245,
+      "name": "Emerald-copper",
+      "synid": 1295,
+      "entrytype": 1
+    },
+    {
+      "id": 5246,
+      "name": "Emerald-malachite",
+      "synid": 1295,
+      "entrytype": 1
+    },
+    {
+      "id": 5247,
+      "name": "Kirghisite",
+      "synid": 1295,
+      "entrytype": 1
+    },
+    {
+      "id": 5248,
+      "name": "Smaragdo-chalcite (of Mohs)",
+      "synid": 1295,
+      "entrytype": 1
+    },
+    {
+      "id": 5249,
+      "name": "Dioptasite",
+      "synid": 1295,
+      "entrytype": 1
+    },
+    {
+      "id": 5250,
+      "name": "Dolerophane",
+      "synid": 1302,
+      "entrytype": 1
+    },
+    {
+      "id": 5251,
+      "name": "Dolomie",
+      "synid": 1304,
+      "entrytype": 1
+    },
+    {
+      "id": 5252,
+      "name": "Miemite",
+      "synid": 1304,
+      "entrytype": 1
+    },
+    {
+      "id": 5253,
+      "name": "Magnesiodolomite",
+      "synid": 1304,
+      "entrytype": 1
+    },
+    {
+      "id": 5254,
+      "name": "Picrite (of Brogniart)",
+      "synid": 1304,
+      "entrytype": 1
+    },
+    {
+      "id": 5256,
+      "name": "Magnesio-Calcite",
+      "synid": 1304,
+      "entrytype": 1
+    },
+    {
+      "id": 5257,
+      "name": "Muricalcite",
+      "synid": 1304,
+      "entrytype": 1
+    },
+    {
+      "id": 5259,
+      "name": "Pearl Spar",
+      "synid": 1304,
+      "entrytype": 1
+    },
+    {
+      "id": 5260,
+      "name": "Gouverneurite",
+      "synid": 1318,
+      "entrytype": 1
+    },
+    {
+      "id": 5262,
+      "name": "Dufrenoysite (of Damour)",
+      "synid": 1324,
+      "entrytype": 1
+    },
+    {
+      "id": 5263,
+      "name": "Gotthardite",
+      "synid": 1324,
+      "entrytype": 1
+    },
+    {
+      "id": 5264,
+      "name": "Bleiarsenit",
+      "synid": 1324,
+      "entrytype": 1
+    },
+    {
+      "id": 5265,
+      "name": "Plumbobinnite",
+      "synid": 1324,
+      "entrytype": 1
+    },
+    {
+      "id": 5266,
+      "name": "Rathite-I",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 5268,
+      "name": "β-Duftite",
+      "synid": 10745,
+      "entrytype": 1
+    },
+    {
+      "id": 5269,
+      "name": "Antimonsilber",
+      "synid": 1342,
+      "entrytype": 1
+    },
+    {
+      "id": 5270,
+      "name": "Discrase",
+      "synid": 1342,
+      "entrytype": 1
+    },
+    {
+      "id": 5271,
+      "name": "Discrasite",
+      "synid": 1342,
+      "entrytype": 1
+    },
+    {
+      "id": 5272,
+      "name": "Stibiotriargentite",
+      "synid": 1342,
+      "entrytype": 1
+    },
+    {
+      "id": 5273,
+      "name": "Silberspießglanz",
+      "synid": 1342,
+      "entrytype": 1
+    },
+    {
+      "id": 5274,
+      "name": "Spiessglanzsilber",
+      "synid": 1342,
+      "entrytype": 1
+    },
+    {
+      "id": 5275,
+      "name": "Spiessglassilber",
+      "synid": 1342,
+      "entrytype": 1
+    },
+    {
+      "id": 5276,
+      "name": "Echlarite",
+      "synid": 1349,
+      "entrytype": 1
+    },
+    {
+      "id": 5277,
+      "name": "Efremovite (of Shcherbakova and Bazhenova)",
+      "synid": 1355,
+      "entrytype": 1
+    },
+    {
+      "id": 5278,
+      "name": "Lithia Tourmaline",
+      "synid": 1364,
+      "entrytype": 1
+    },
+    {
+      "id": 5279,
+      "name": "Elektrum",
+      "synid": 1365,
+      "entrytype": 1
+    },
+    {
+      "id": 5280,
+      "name": "Gold Argentide",
+      "synid": 1365,
+      "entrytype": 1
+    },
+    {
+      "id": 5281,
+      "name": "Megabromite",
+      "synid": 1372,
+      "entrytype": 1
+    },
+    {
+      "id": 5282,
+      "name": "Microbromite",
+      "synid": 1372,
+      "entrytype": 1
+    },
+    {
+      "id": 5283,
+      "name": "Orthobromite",
+      "synid": 1372,
+      "entrytype": 1
+    },
+    {
+      "id": 5284,
+      "name": "Rogersite (of Lausen)",
+      "synid": 2345,
+      "entrytype": 1
+    },
+    {
+      "id": 5285,
+      "name": "Bromchlorargyrite",
+      "synid": 1372,
+      "entrytype": 1
+    },
+    {
+      "id": 5286,
+      "name": "Emaldine",
+      "synid": 1376,
+      "entrytype": 1
+    },
+    {
+      "id": 5288,
+      "name": "Emmonsite (of Hillebrand)",
+      "synid": 1377,
+      "entrytype": 1
+    },
+    {
+      "id": 5289,
+      "name": "Garbyite",
+      "synid": 1380,
+      "entrytype": 1
+    },
+    {
+      "id": 5290,
+      "name": "Guayacanite",
+      "synid": 1380,
+      "entrytype": 1
+    },
+    {
+      "id": 5291,
+      "name": "Clarite (of Sandberger)",
+      "synid": 1380,
+      "entrytype": 1
+    },
+    {
+      "id": 5292,
+      "name": "Protobastite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5294,
+      "name": "Chladnite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5295,
+      "name": "Peckhamite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5296,
+      "name": "Victorite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5297,
+      "name": "Amblystegite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5298,
+      "name": "Orthoenstatite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5299,
+      "name": "Ficinite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5300,
+      "name": "Shepardite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5301,
+      "name": "Paulite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5302,
+      "name": "Orthobronzite",
+      "synid": 1384,
+      "entrytype": 1
+    },
+    {
+      "id": 5303,
+      "name": "Soda-Margarite",
+      "synid": 1387,
+      "entrytype": 1
+    },
+    {
+      "id": 5304,
+      "name": "Natronmargarite",
+      "synid": 1387,
+      "entrytype": 1
+    },
+    {
+      "id": 5305,
+      "name": "Achmatite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5306,
+      "name": "Acanthicone",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5308,
+      "name": "Acanticonite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5309,
+      "name": "Allochite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5311,
+      "name": "Arendite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5313,
+      "name": "Strahslstein (of Werner)",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5314,
+      "name": "Pushkinite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5315,
+      "name": "Puschkinite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5316,
+      "name": "Posstrevorite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5317,
+      "name": "Scorza",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5318,
+      "name": "Escherite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5321,
+      "name": "Oisanite (of de Saussure)",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5322,
+      "name": "Selphinite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5323,
+      "name": "Thallite",
+      "synid": 1389,
+      "entrytype": 1
+    },
+    {
+      "id": 5324,
+      "name": "Epsom Salt",
+      "synid": 1393,
+      "entrytype": 1
+    },
+    {
+      "id": 5325,
+      "name": "Bittersalz",
+      "synid": 1393,
+      "entrytype": 1
+    },
+    {
+      "id": 5326,
+      "name": "Gletschersalz",
+      "synid": 1393,
+      "entrytype": 1
+    },
+    {
+      "id": 5328,
+      "name": "Sal Catartica",
+      "synid": 1393,
+      "entrytype": 1
+    },
+    {
+      "id": 5329,
+      "name": "Reichardtite",
+      "synid": 1393,
+      "entrytype": 1
+    },
+    {
+      "id": 5330,
+      "name": "Bitter Salts",
+      "synid": 1393,
+      "entrytype": 1
+    },
+    {
+      "id": 5331,
+      "name": "Jeremeievite",
+      "synid": 2090,
+      "entrytype": 1
+    },
+    {
+      "id": 5332,
+      "name": "Jéréméiéwite",
+      "synid": 2090,
+      "entrytype": 1
+    },
+    {
+      "id": 5333,
+      "name": "Jeremejeffite",
+      "synid": 2090,
+      "entrytype": 1
+    },
+    {
+      "id": 5336,
+      "name": "Jeremejewite",
+      "synid": 2090,
+      "entrytype": 1
+    },
+    {
+      "id": 5337,
+      "name": "Antofagastite",
+      "synid": 1398,
+      "entrytype": 1
+    },
+    {
+      "id": 5338,
+      "name": "Erythrite (of Beudant)",
+      "synid": 1407,
+      "entrytype": 1
+    },
+    {
+      "id": 5339,
+      "name": "Eukairit",
+      "synid": 1415,
+      "entrytype": 1
+    },
+    {
+      "id": 5340,
+      "name": "Selenkupfersilber",
+      "synid": 1415,
+      "entrytype": 1
+    },
+    {
+      "id": 5341,
+      "name": "Euclasite",
+      "synid": 1418,
+      "entrytype": 1
+    },
+    {
+      "id": 5342,
+      "name": "Lithionnephelin",
+      "synid": 1419,
+      "entrytype": 1
+    },
+    {
+      "id": 5343,
+      "name": "Eudialite",
+      "synid": 1420,
+      "entrytype": 1
+    },
+    {
+      "id": 5344,
+      "name": "Eudyalite",
+      "synid": 1420,
+      "entrytype": 1
+    },
+    {
+      "id": 5345,
+      "name": "Grönländischer Hyazinth",
+      "synid": 1420,
+      "entrytype": 1
+    },
+    {
+      "id": 5346,
+      "name": "Eulytite",
+      "synid": 1424,
+      "entrytype": 1
+    },
+    {
+      "id": 5347,
+      "name": "Agricolite",
+      "synid": 1424,
+      "entrytype": 1
+    },
+    {
+      "id": 5348,
+      "name": "Faheylite",
+      "synid": 1435,
+      "entrytype": 1
+    },
+    {
+      "id": 5349,
+      "name": "Fahlglanz",
+      "synid": 1437,
+      "entrytype": 1
+    },
+    {
+      "id": 5350,
+      "name": "Fahlit",
+      "synid": 1437,
+      "entrytype": 1
+    },
+    {
+      "id": 5351,
+      "name": "Schwefelsaure Thonerde",
+      "synid": 162,
+      "entrytype": 1
+    },
+    {
+      "id": 5352,
+      "name": "Fahlore",
+      "synid": 1437,
+      "entrytype": 1
+    },
+    {
+      "id": 5353,
+      "name": "Falertz",
+      "synid": 1437,
+      "entrytype": 1
+    },
+    {
+      "id": 5354,
+      "name": "Falerz",
+      "synid": 1437,
+      "entrytype": 1
+    },
+    {
+      "id": 5355,
+      "name": "Fahlunite (of Hisinger)",
+      "synid": 1438,
+      "entrytype": 1
+    },
+    {
+      "id": 5356,
+      "name": "Falunite",
+      "synid": 1438,
+      "entrytype": 1
+    },
+    {
+      "id": 5358,
+      "name": "Sulfato de nickel",
+      "synid": 2782,
+      "entrytype": 1
+    },
+    {
+      "id": 5359,
+      "name": "Sulphate of Zinc",
+      "synid": 1731,
+      "entrytype": 1
+    },
+    {
+      "id": 5360,
+      "name": "Epsomensis",
+      "synid": 1393,
+      "entrytype": 1
+    },
+    {
+      "id": 5361,
+      "name": "Sal Anglicus",
+      "synid": 1393,
+      "entrytype": 1
+    },
+    {
+      "id": 5362,
+      "name": "Stibioluzonite (of Strunz)",
+      "synid": 1451,
+      "entrytype": 1
+    },
+    {
+      "id": 5363,
+      "name": "Eisenglas",
+      "synid": 1458,
+      "entrytype": 1
+    },
+    {
+      "id": 5364,
+      "name": "Eisenperidot",
+      "synid": 1458,
+      "entrytype": 1
+    },
+    {
+      "id": 5365,
+      "name": "Iron-Chrysolite",
+      "synid": 1458,
+      "entrytype": 1
+    },
+    {
+      "id": 5366,
+      "name": "Fältspat",
+      "synid": 1624,
+      "entrytype": 1
+    },
+    {
+      "id": 5367,
+      "name": "Feldespato",
+      "synid": 1624,
+      "entrytype": 1
+    },
+    {
+      "id": 5368,
+      "name": "Feldstein",
+      "synid": 1624,
+      "entrytype": 1
+    },
+    {
+      "id": 5369,
+      "name": "Feldtspat",
+      "synid": 1624,
+      "entrytype": 1
+    },
+    {
+      "id": 5375,
+      "name": "Ferro-anthophyllite (of Winchell)",
+      "synid": 1464,
+      "entrytype": 1
+    },
+    {
+      "id": 5390,
+      "name": "Fleischerite (of Frondel and Strunz)",
+      "synid": 1556,
+      "entrytype": 1
+    },
+    {
+      "id": 5391,
+      "name": "Basicérine",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 5392,
+      "name": "Basisk fluss-spatssyradt Cerium",
+      "synid": 560,
+      "entrytype": 1
+    },
+    {
+      "id": 5393,
+      "name": "Fluorspar",
+      "synid": 1576,
+      "entrytype": 1
+    },
+    {
+      "id": 5394,
+      "name": "Fluor",
+      "synid": 1576,
+      "entrytype": 1
+    },
+    {
+      "id": 5395,
+      "name": "Fluorita",
+      "synid": 1576,
+      "entrytype": 1
+    },
+    {
+      "id": 5396,
+      "name": "Fluorine",
+      "synid": 1576,
+      "entrytype": 1
+    },
+    {
+      "id": 5397,
+      "name": "Liparite (of Glocker)",
+      "synid": 1576,
+      "entrytype": 1
+    },
+    {
+      "id": 5398,
+      "name": "Bruiachite",
+      "synid": 1576,
+      "entrytype": 1
+    },
+    {
+      "id": 5399,
+      "name": "Fluorbaryt",
+      "synid": 1576,
+      "entrytype": 1
+    },
+    {
+      "id": 5400,
+      "name": "Fluorbaryte",
+      "synid": 1576,
+      "entrytype": 1
+    },
+    {
+      "id": 5401,
+      "name": "Lysspat",
+      "synid": 1576,
+      "entrytype": 1
+    },
+    {
+      "id": 5402,
+      "name": "Furnacite",
+      "synid": 1583,
+      "entrytype": 1
+    },
+    {
+      "id": 5403,
+      "name": "Peridoto Bianco",
+      "synid": 1584,
+      "entrytype": 1
+    },
+    {
+      "id": 5404,
+      "name": "Boltonite",
+      "synid": 1584,
+      "entrytype": 1
+    },
+    {
+      "id": 5405,
+      "name": "White Olivine",
+      "synid": 1584,
+      "entrytype": 1
+    },
+    {
+      "id": 5406,
+      "name": "Francklinite",
+      "synid": 1598,
+      "entrytype": 1
+    },
+    {
+      "id": 5407,
+      "name": "Zinkoferrite",
+      "synid": 1598,
+      "entrytype": 1
+    },
+    {
+      "id": 5408,
+      "name": "Isophane",
+      "synid": 1598,
+      "entrytype": 1
+    },
+    {
+      "id": 5409,
+      "name": "Ferrite de Zinc",
+      "synid": 1598,
+      "entrytype": 1
+    },
+    {
+      "id": 5410,
+      "name": "Silberfahlerz",
+      "synid": 1605,
+      "entrytype": 1
+    },
+    {
+      "id": 5412,
+      "name": "Leukargyrite",
+      "synid": 1605,
+      "entrytype": 1
+    },
+    {
+      "id": 5413,
+      "name": "Polytelite (of von Kobell)",
+      "synid": 0,
+      "entrytype": 1
+    },
+    {
+      "id": 5414,
+      "name": "Basitomglanz",
+      "synid": 1606,
+      "entrytype": 1
+    },
+    {
+      "id": 5415,
+      "name": "Frolowite",
+      "synid": 1613,
+      "entrytype": 1
+    },
+    {
+      "id": 5416,
+      "name": "Chrome-mica",
+      "synid": 1617,
+      "entrytype": 1
+    },
+    {
+      "id": 5418,
+      "name": "Gaebhardite",
+      "synid": 1617,
+      "entrytype": 1
+    },
+    {
+      "id": 5419,
+      "name": "Schwarzer Zeolith",
+      "synid": 1628,
+      "entrytype": 1
+    },
+    {
+      "id": 5420,
+      "name": "Ytterbite",
+      "synid": 1628,
+      "entrytype": 1
+    },
+    {
+      "id": 5421,
+      "name": "Yttersten",
+      "synid": 1628,
+      "entrytype": 1
+    },
+    {
+      "id": 5422,
+      "name": "Yttrite",
+      "synid": 1628,
+      "entrytype": 1
+    },
+    {
+      "id": 5423,
+      "name": "Nakalifite",
+      "synid": 1629,
+      "entrytype": 1
+    },
+    {
+      "id": 5424,
+      "name": "Gahnite (of von Moll)",
+      "synid": 1632,
+      "entrytype": 1
+    },
+    {
+      "id": 5425,
+      "name": "Automolite",
+      "synid": 1632,
+      "entrytype": 1
+    },
+    {
+      "id": 5426,
+      "name": "Zinc Spinel",
+      "synid": 1632,
+      "entrytype": 1
+    },
+    {
+      "id": 5427,
+      "name": "Fahlunite (of Karsten)",
+      "synid": 1632,
+      "entrytype": 1
+    },
+    {
+      "id": 5428,
+      "name": "Galenite",
+      "synid": 1641,
+      "entrytype": 1
+    },
+    {
+      "id": 5429,
+      "name": "Lead Glance",
+      "synid": 1641,
+      "entrytype": 1
+    },
+    {
+      "id": 5430,
+      "name": "Acerilla",
+      "synid": 1641,
+      "entrytype": 1
+    },
+    {
+      "id": 5431,
+      "name": "Granat",
+      "synid": 10272,
+      "entrytype": 1
+    },
+    {
+      "id": 5432,
+      "name": "Grenat",
+      "synid": 10272,
+      "entrytype": 1
+    },
+    {
+      "id": 5433,
+      "name": "Garamantious",
+      "synid": 1651,
+      "entrytype": 1
+    },
+    {
+      "id": 5434,
+      "name": "Gaylussacite",
+      "synid": 1662,
+      "entrytype": 1
+    },
+    {
+      "id": 5436,
+      "name": "Kilbrickenite",
+      "synid": 1674,
+      "entrytype": 1
+    },
+    {
+      "id": 5437,
+      "name": "Geokronit",
+      "synid": 1674,
+      "entrytype": 1
+    },
+    {
+      "id": 5438,
+      "name": "Nickelglanz",
+      "synid": 1683,
+      "entrytype": 1
+    },
+    {
+      "id": 5439,
+      "name": "Nickelarsenikkies",
+      "synid": 1683,
+      "entrytype": 1
+    },
+    {
+      "id": 5440,
+      "name": "Nickelarsenikglanz",
+      "synid": 1683,
+      "entrytype": 1
+    },
+    {
+      "id": 5441,
+      "name": "Disosmose",
+      "synid": 1683,
+      "entrytype": 1
+    },
+    {
+      "id": 5442,
+      "name": "Amoibite",
+      "synid": 1683,
+      "entrytype": 1
+    },
+    {
+      "id": 5443,
+      "name": "Dobschauite",
+      "synid": 1683,
+      "entrytype": 1
+    },
+    {
+      "id": 5444,
+      "name": "Wodankies",
+      "synid": 1683,
+      "entrytype": 1
+    },
+    {
+      "id": 5445,
+      "name": "Plessite (of Dana)",
+      "synid": 1683,
+      "entrytype": 1
+    },
+    {
+      "id": 5446,
+      "name": "Gibbsite (of Torrey)",
+      "synid": 1689,
+      "entrytype": 1
+    },
+    {
+      "id": 5447,
+      "name": "Wavellite (of Dewey)",
+      "synid": 1689,
+      "entrytype": 1
+    },
+    {
+      "id": 5448,
+      "name": "Hydrargillite (of Cleaveland)",
+      "synid": 1689,
+      "entrytype": 1
+    },
+    {
+      "id": 5449,
+      "name": "b-Kliachite",
+      "synid": 1689,
+      "entrytype": 1
+    },
+    {
+      "id": 5450,
+      "name": "Claussenite",
+      "synid": 1689,
+      "entrytype": 1
+    },
+    {
+      "id": 5451,
+      "name": "Gibbsitogelite",
+      "synid": 1689,
+      "entrytype": 1
+    },
+    {
+      "id": 27280,
+      "name": "Amphibole",
+      "synid": 207,
+      "entrytype": 1
+    },
+    {
+      "id": 38901,
+      "name": "Bobdownsite",
+      "synid": 4280,
+      "entrytype": 1
+    },
+    {
+      "id": 40954,
+      "name": "Garnet",
+      "synid": 10272,
+      "entrytype": 1
+    },
+    {
+      "id": 5473,
+      "name": "Gold",
+      "synid": 1720,
+      "entrytype": 1
+    },
+    {
+      "id": 488849,
+      "name": "Indium",
+      "synid": 2030,
+      "entrytype": 1
+    },
+    {
+      "id": 42339,
+      "name": "Iron",
+      "synid": 2047,
+      "entrytype": 1
+    },
+    {
+      "id": 471503,
+      "name": "Krut'aite",
+      "synid": 2279,
+      "entrytype": 1
+    },
+    {
+      "id": 5742,
+      "name": "Lead",
+      "synid": 2358,
+      "entrytype": 1
+    },
+    {
+      "id": 29017,
+      "name": "Magnesiotaaffeite-2N2S",
+      "synid": 3863,
+      "entrytype": 1
+    },
+    {
+      "id": 29019,
+      "name": "Magnesiotaaffeite-6N3S",
+      "synid": 2816,
+      "entrytype": 1
+    },
+    {
+      "id": 7168,
+      "name": "Manganogrunerite",
+      "synid": 52566,
+      "entrytype": 1
+    },
+    {
+      "id": 40556,
+      "name": "Microlite",
+      "synid": 2705,
+      "entrytype": 1
+    },
+    {
+      "id": 29550,
+      "name": "Nioboaeschynite-(Y)",
+      "synid": 39,
+      "entrytype": 1
+    },
+    {
+      "id": 488843,
+      "name": "Osmium",
+      "synid": 3037,
+      "entrytype": 1
+    },
+    {
+      "id": 5995,
+      "name": "Palladium",
+      "synid": 3067,
+      "entrytype": 1
+    },
+    {
+      "id": 38433,
+      "name": "Palládium",
+      "synid": 3067,
+      "entrytype": 1
+    },
+    {
+      "id": 499610,
+      "name": "Pezzottaite",
+      "synid": 25652,
+      "entrytype": 1
+    },
+    {
+      "id": 6058,
+      "name": "Platinum",
+      "synid": 3236,
+      "entrytype": 1
+    },
+    {
+      "id": 40411,
+      "name": "Pyrochlore",
+      "synid": 3316,
+      "entrytype": 1
+    },
+    {
+      "id": 27281,
+      "name": "Pyroxene",
+      "synid": 9767,
+      "entrytype": 1
+    },
+    {
+      "id": 37996,
+      "name": "Sélénium",
+      "synid": 3611,
+      "entrytype": 1
+    },
+    {
+      "id": 42338,
+      "name": "Selenium",
+      "synid": 3611,
+      "entrytype": 1
+    },
+    {
+      "id": 6250,
+      "name": "Silicon",
+      "synid": 3659,
+      "entrytype": 1
+    },
+    {
+      "id": 6260,
+      "name": "Silver",
+      "synid": 3664,
+      "entrytype": 1
+    },
+    {
+      "id": 55362,
+      "name": "Sorensenite",
+      "synid": 3716,
+      "entrytype": 1
+    },
+    {
+      "id": 6352,
+      "name": "Sulphur",
+      "synid": 3826,
+      "entrytype": 1
+    },
+    {
+      "id": 42337,
+      "name": "Tellurium",
+      "synid": 3906,
+      "entrytype": 1
+    },
+    {
+      "id": 6439,
+      "name": "Tin",
+      "synid": 3965,
+      "entrytype": 1
+    },
+    {
+      "id": 470732,
+      "name": "Wyartite II",
+      "synid": 470731,
+      "entrytype": 1
+    },
+    {
+      "id": 6638,
+      "name": "Zinc",
+      "synid": 4405,
+      "entrytype": 1
+    }
+  ],
+  "queries": {
+    "AlSO4(OH)": [
+      "https://api.mindat.org/v1/geomaterials/?name=AlSO4%28OH%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Amphibole": [
+      "https://api.mindat.org/v1/geomaterials/?name=Amphibole&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Bakerite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Bakerite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "BariÄ‡ite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Bari%C3%84%E2%80%A1ite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Bobdownsite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Bobdownsite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "CaLiBO3": [
+      "https://api.mindat.org/v1/geomaterials/?name=CaLiBO3&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "CuZnCl(OH)3": [
+      "https://api.mindat.org/v1/geomaterials/?name=CuZnCl%28OH%293&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "CuZnCl(OH)<sub>3</sub>": [
+      "https://api.mindat.org/v1/geomaterials/?name=CuZnCl%28OH%29%3Csub%3E3%3C%2Fsub%3E&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Garnet": [
+      "https://api.mindat.org/v1/geomaterials/?name=Garnet&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Ce)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Ce%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Dy)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Dy%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Er)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Er%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Eu)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Eu%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Gd)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Gd%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Ho)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Ho%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(La)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28La%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Lu)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Lu%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Nd)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Nd%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Pr)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Pr%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Sm)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Sm%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Tb)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Tb%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Tm)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Tm%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Y)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Y%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Glass-(Yb)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Glass-%28Yb%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Gold": [
+      "https://api.mindat.org/v1/geomaterials/?name=Gold&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Indium": [
+      "https://api.mindat.org/v1/geomaterials/?name=Indium&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Iron": [
+      "https://api.mindat.org/v1/geomaterials/?name=Iron&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Jorgensenite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Jorgensenite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Julgoldite-(Fe<sup>2+</sup>)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Julgoldite-%28Fe%3Csup%3E2%2B%3C%2Fsup%3E%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "K3Fe(CN)5NO": [
+      "https://api.mindat.org/v1/geomaterials/?name=K3Fe%28CN%295NO&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "K<sub>3</sub>Fe(CN)<sub>5</sub>NO": [
+      "https://api.mindat.org/v1/geomaterials/?name=K%3Csub%3E3%3C%2Fsub%3EFe%28CN%29%3Csub%3E5%3C%2Fsub%3ENO&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Krut'aite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Krut%27aite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Lead": [
+      "https://api.mindat.org/v1/geomaterials/?name=Lead&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Libyan Desert glass": [
+      "https://api.mindat.org/v1/geomaterials/?name=Libyan+Desert+glass&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Magnesiotaaffeite-2<i>N</i>'2S": [
+      "https://api.mindat.org/v1/geomaterials/?name=Magnesiotaaffeite-2%3Ci%3EN%3C%2Fi%3E%272S&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Magnesiotaaffeite-2N2S": [
+      "https://api.mindat.org/v1/geomaterials/?name=Magnesiotaaffeite-2N2S&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Magnesiotaaffeite-6N3S": [
+      "https://api.mindat.org/v1/geomaterials/?name=Magnesiotaaffeite-6N3S&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Manganogrunerite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Manganogrunerite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "MariÄ‡ite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Mari%C3%84%E2%80%A1ite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Metauranocircite II": [
+      "https://api.mindat.org/v1/geomaterials/?name=Metauranocircite+II&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Microlite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Microlite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Mimetite-<i>M</i>": [
+      "https://api.mindat.org/v1/geomaterials/?name=Mimetite-%3Ci%3EM%3C%2Fi%3E&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Nioboaeschynite-(Y)": [
+      "https://api.mindat.org/v1/geomaterials/?name=Nioboaeschynite-%28Y%29&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Osmium": [
+      "https://api.mindat.org/v1/geomaterials/?name=Osmium&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Palladium": [
+      "https://api.mindat.org/v1/geomaterials/?name=Palladium&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Pezzottaite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Pezzottaite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Platinum": [
+      "https://api.mindat.org/v1/geomaterials/?name=Platinum&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Polystyrene": [
+      "https://api.mindat.org/v1/geomaterials/?name=Polystyrene&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Potassium Dihydrogen Phosphate": [
+      "https://api.mindat.org/v1/geomaterials/?name=Potassium+Dihydrogen+Phosphate&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Pyrochlore": [
+      "https://api.mindat.org/v1/geomaterials/?name=Pyrochlore&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Pyroxene": [
+      "https://api.mindat.org/v1/geomaterials/?name=Pyroxene&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Romeite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Romeite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "RomÃ©ite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Rom%C3%83%C2%A9ite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Selenium": [
+      "https://api.mindat.org/v1/geomaterials/?name=Selenium&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Si3N4-beta": [
+      "https://api.mindat.org/v1/geomaterials/?name=Si3N4-beta&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Silicon": [
+      "https://api.mindat.org/v1/geomaterials/?name=Silicon&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Silver": [
+      "https://api.mindat.org/v1/geomaterials/?name=Silver&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Sorensenite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Sorensenite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Sulphur": [
+      "https://api.mindat.org/v1/geomaterials/?name=Sulphur&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Tellurium": [
+      "https://api.mindat.org/v1/geomaterials/?name=Tellurium&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Tin": [
+      "https://api.mindat.org/v1/geomaterials/?name=Tin&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Tourmaline": [
+      "https://api.mindat.org/v1/geomaterials/?name=Tourmaline&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Trilithionite-2M1": [
+      "https://api.mindat.org/v1/geomaterials/?name=Trilithionite-2M1&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Trinitite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Trinitite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Viseite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Viseite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Wyartite II": [
+      "https://api.mindat.org/v1/geomaterials/?name=Wyartite+II&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Yttrium aluminum garnet": [
+      "https://api.mindat.org/v1/geomaterials/?name=Yttrium+aluminum+garnet&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Zinc": [
+      "https://api.mindat.org/v1/geomaterials/?name=Zinc&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Zinnwaldite": [
+      "https://api.mindat.org/v1/geomaterials/?name=Zinnwaldite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "unknown": [
+      "https://api.mindat.org/v1/geomaterials/?name=unknown&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "Ã…kermanite": [
+      "https://api.mindat.org/v1/geomaterials/?name=%C3%83%E2%80%A6kermanite&fields=id%2Cname%2Csynid%2Centrytype"
+    ],
+    "ÄŒechite": [
+      "https://api.mindat.org/v1/geomaterials/?name=%C3%84%C5%92echite&fields=id%2Cname%2Csynid%2Centrytype"
+    ]
+  },
+  "errors": {},
+  "partial_bulk_urls": [
+    "https://api.mindat.org/v1/geomaterials/?page-size=20&entrytype=1&fields=id%2Cname%2Csynid%2Centrytype",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=2&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=3&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=4&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=5&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=6&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=7&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=8&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=9&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=10&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=11&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=12&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=13&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=14&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=15&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=16&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=17&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=18&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=19&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=20&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=21&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=22&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=23&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=24&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=25&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=26&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=27&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=28&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=29&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=30&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=31&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=32&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=33&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=34&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=35&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=36&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=37&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=38&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=39&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=40&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=41&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=42&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=43&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=44&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=45&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=46&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=47&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=48&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=49&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=50&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=51&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=52&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=53&page-size=20",
+    "https://api.mindat.org/v1/geomaterials/?entrytype=1&fields=id%2Cname%2Csynid%2Centrytype&page=54&page-size=20"
+  ],
+  "bulk_error": "HTTP 504 on page 55; resolved remaining dataset names through targeted queries.",
+  "retrieved_utc": "2026-11-14T19:58:24.001407+00:00"
+}
