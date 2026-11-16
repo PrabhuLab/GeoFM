@@ -7,7 +7,6 @@ Thumbs.db
 *.log
 .env
 results/
-notebooks/*.html
 data/raw/*
 !data/raw/Redox_Charge_Balanced.csv
 !data/raw/mindat.json
